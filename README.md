@@ -87,3 +87,15 @@ Passed checks: 13 complete app integration groups (including the runner’s shar
 The voice pack uses fully vocalized pronunciation overrides, explicit Arabic letter names and a steadier synthesis pace. Representative independent speech-recognition checks improved over the original pack, but do not establish error-free pronunciation. An alternative model was evaluated and kept out of this release because its exact model license was not confirmed.
 
 `docs/index.html` is the complete self-contained web platform. The GitHub Pages workflow can publish it when GitHub permits Pages configuration. Downloaded play does not depend on Pages being enabled.
+
+## Online play — one-time repository setting
+
+The reviewed website is committed at `docs/index.html`. Automatic Pages creation was rejected by GitHub with `Resource not accessible by integration`; the workflow's repository token cannot enable a new Pages site.
+
+The repository owner can finish online hosting:
+
+1. Open [Settings → Pages](https://github.com/habbaninho888-ui/Faroug-Education-Game/settings/pages).
+2. Under **Build and deployment**, choose **GitHub Actions** as the source.
+3. Open [Publish Learning Galaxy](https://github.com/habbaninho888-ui/Faroug-Education-Game/actions/workflows/pages.yml), select **Run workflow**, then run it on `main` (or rerun the failed deployment).
+
+The online URL should only be shared as live after the deployment succeeds. The complete game ZIP above is already published and verified and does not depend on Pages.

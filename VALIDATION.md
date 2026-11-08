@@ -32,3 +32,9 @@ The previous release's tests did not establish natural voice quality or working 
 - Progression: 32 checks pass against actual app code and content, including subject-specific reachable thresholds and recent varied independent evidence.
 - Distribution includes original art, Three.js MIT notice, Quran source/license and neural-voice credits.
 - Arabic acoustic playback and independent ASR are evidence of function, not a fluent human listening certification. Generated narration is not ChatGPT Interactive Voice or a human actor recording. Original browser graphics are not a claim of PS4 production parity.
+
+## Publication evidence
+
+The Adventure Edition source, reviewed standalone website and ZIP were published to GitHub. The actual ZIP download returned HTTP200 and5,462,653 bytes. SHA256 matched the tested local ZIP: `ab1540460901d0b4e66235bf9e166bcfe670bd59cc1dd65aeac857175f6d6d52`; CRC and embedded-module checks passed.
+
+A standard GitHub Pages workflow was also pushed, but deployment run42479739536 failed during site creation with `Resource not accessible by integration`. Live hosting is not claimed. The repository owner must enable Pages with GitHub Actions as the source and run the workflow. This hosting permission failure does not affect the verified downloadable game.
