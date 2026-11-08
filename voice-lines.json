@@ -1,0 +1,1802 @@
+[
+  {
+    "key": "en|sun. Which letter starts sun?",
+    "text": "sun. Which letter starts sun?",
+    "lang": "en",
+    "id": "15d4b0ca39be785e095b"
+  },
+  {
+    "key": "en|The first sound is the same as in sock.",
+    "text": "The first sound is the same as in sock.",
+    "lang": "en",
+    "id": "4c1690aa5e763ae3cebf"
+  },
+  {
+    "key": "en|Sun and sock both start with s.",
+    "text": "Sun and sock both start with s.",
+    "lang": "en",
+    "id": "d9ca81db7cecbd8ddaf1"
+  },
+  {
+    "key": "en|moon. Which letter starts moon?",
+    "text": "moon. Which letter starts moon?",
+    "lang": "en",
+    "id": "01790a45032a163a1b06"
+  },
+  {
+    "key": "en|The first sound is the same as in map.",
+    "text": "The first sound is the same as in map.",
+    "lang": "en",
+    "id": "228a58cb14460924c5d7"
+  },
+  {
+    "key": "en|Moon and map both start with m.",
+    "text": "Moon and map both start with m.",
+    "lang": "en",
+    "id": "03f98d8ad283e9d410c0"
+  },
+  {
+    "key": "en|cat. Which letter starts cat?",
+    "text": "cat. Which letter starts cat?",
+    "lang": "en",
+    "id": "4ec7e1a299bf47078943"
+  },
+  {
+    "key": "en|The first sound is the same as in cup.",
+    "text": "The first sound is the same as in cup.",
+    "lang": "en",
+    "id": "6dbc0efffd759ef021b1"
+  },
+  {
+    "key": "en|Cat and cup both start with c.",
+    "text": "Cat and cup both start with c.",
+    "lang": "en",
+    "id": "db89a05ebd7fb033ad1a"
+  },
+  {
+    "key": "en|dog. Which letter starts dog?",
+    "text": "dog. Which letter starts dog?",
+    "lang": "en",
+    "id": "42c2acbc1a70d7f451fc"
+  },
+  {
+    "key": "en|The first sound is the same as in dig.",
+    "text": "The first sound is the same as in dig.",
+    "lang": "en",
+    "id": "f9bb618b4d8b061df7ba"
+  },
+  {
+    "key": "en|Dog and dig both start with d.",
+    "text": "Dog and dig both start with d.",
+    "lang": "en",
+    "id": "ef616ddf8711a0a77139"
+  },
+  {
+    "key": "en|fish. Which letter starts fish?",
+    "text": "fish. Which letter starts fish?",
+    "lang": "en",
+    "id": "cef60c7181dd3409aaeb"
+  },
+  {
+    "key": "en|The first sound is the same as in fan.",
+    "text": "The first sound is the same as in fan.",
+    "lang": "en",
+    "id": "17d09c9d25e9b52faf23"
+  },
+  {
+    "key": "en|Fish and fan both start with f.",
+    "text": "Fish and fan both start with f.",
+    "lang": "en",
+    "id": "e054fbb6274c18b0824f"
+  },
+  {
+    "key": "en|pig. Which letter starts pig?",
+    "text": "pig. Which letter starts pig?",
+    "lang": "en",
+    "id": "1f5fd6075cceea68e110"
+  },
+  {
+    "key": "en|The first sound is the same as in pan.",
+    "text": "The first sound is the same as in pan.",
+    "lang": "en",
+    "id": "cb7fb2f12fbf6835267b"
+  },
+  {
+    "key": "en|Pig and pan both start with p.",
+    "text": "Pig and pan both start with p.",
+    "lang": "en",
+    "id": "145be847c542f14451fb"
+  },
+  {
+    "key": "en|Find the capital letter for a.",
+    "text": "Find the capital letter for a.",
+    "lang": "en",
+    "id": "edf3fd41a6d216b38b65"
+  },
+  {
+    "key": "en|Look for capital A.",
+    "text": "Look for capital A.",
+    "lang": "en",
+    "id": "2267a88521eb73303162"
+  },
+  {
+    "key": "en|A and a are two forms of the same letter.",
+    "text": "A and a are two forms of the same letter.",
+    "lang": "en",
+    "id": "4160f4c62a665639d228"
+  },
+  {
+    "key": "en|Find the capital letter for m.",
+    "text": "Find the capital letter for m.",
+    "lang": "en",
+    "id": "3e781eec8ea62a4d875b"
+  },
+  {
+    "key": "en|Look for capital M.",
+    "text": "Look for capital M.",
+    "lang": "en",
+    "id": "991631543c2c83bcf0f2"
+  },
+  {
+    "key": "en|M and m are two forms of the same letter.",
+    "text": "M and m are two forms of the same letter.",
+    "lang": "en",
+    "id": "be943bfcde4951714be9"
+  },
+  {
+    "key": "en|Find the capital letter for s.",
+    "text": "Find the capital letter for s.",
+    "lang": "en",
+    "id": "c2947e79c410452d7a6f"
+  },
+  {
+    "key": "en|Look for capital S.",
+    "text": "Look for capital S.",
+    "lang": "en",
+    "id": "16a4ecb18d9341044f77"
+  },
+  {
+    "key": "en|S and s are two forms of the same letter.",
+    "text": "S and s are two forms of the same letter.",
+    "lang": "en",
+    "id": "b61aa44237950f0dc26b"
+  },
+  {
+    "key": "en|Find the capital letter for t.",
+    "text": "Find the capital letter for t.",
+    "lang": "en",
+    "id": "9df17731e4a3e110d2f7"
+  },
+  {
+    "key": "en|Look for capital T.",
+    "text": "Look for capital T.",
+    "lang": "en",
+    "id": "4d8ef401ec55de98957d"
+  },
+  {
+    "key": "en|T and t are two forms of the same letter.",
+    "text": "T and t are two forms of the same letter.",
+    "lang": "en",
+    "id": "88d4c74a6eb83930222f"
+  },
+  {
+    "key": "en|Find the capital letter for p.",
+    "text": "Find the capital letter for p.",
+    "lang": "en",
+    "id": "10afc44e5e1b6e008c99"
+  },
+  {
+    "key": "en|Look for capital P.",
+    "text": "Look for capital P.",
+    "lang": "en",
+    "id": "9bf615803038bdb585ca"
+  },
+  {
+    "key": "en|P and p are two forms of the same letter.",
+    "text": "P and p are two forms of the same letter.",
+    "lang": "en",
+    "id": "eb42a269ee2dde0a6db1"
+  },
+  {
+    "key": "en|Find the capital letter for n.",
+    "text": "Find the capital letter for n.",
+    "lang": "en",
+    "id": "5cc61c3f063435bd272b"
+  },
+  {
+    "key": "en|Look for capital N.",
+    "text": "Look for capital N.",
+    "lang": "en",
+    "id": "3c3ed475ab94ac126c43"
+  },
+  {
+    "key": "en|N and n are two forms of the same letter.",
+    "text": "N and n are two forms of the same letter.",
+    "lang": "en",
+    "id": "e4b76c8854dfabe77bd4"
+  },
+  {
+    "key": "en|Read the word on the screen. Choose its picture.",
+    "text": "Read the word on the screen. Choose its picture.",
+    "lang": "en",
+    "id": "c20263c4f71b5b3d82b9"
+  },
+  {
+    "key": "en|Point to each letter. Say its sound, then blend the sounds together.",
+    "text": "Point to each letter. Say its sound, then blend the sounds together.",
+    "lang": "en",
+    "id": "f4aea68540fc72024b9b"
+  },
+  {
+    "key": "en|The word is cat.",
+    "text": "The word is cat.",
+    "lang": "en",
+    "id": "301d958ed60af61bc302"
+  },
+  {
+    "key": "en|The word is sun.",
+    "text": "The word is sun.",
+    "lang": "en",
+    "id": "1bdbef32898d98f8e8d7"
+  },
+  {
+    "key": "en|The word is dog.",
+    "text": "The word is dog.",
+    "lang": "en",
+    "id": "50034b88f5ef6842c14d"
+  },
+  {
+    "key": "en|The word is pig.",
+    "text": "The word is pig.",
+    "lang": "en",
+    "id": "f43683a8f9c6ac038b04"
+  },
+  {
+    "key": "en|The word is hat.",
+    "text": "The word is hat.",
+    "lang": "en",
+    "id": "31355dc5961679d041f0"
+  },
+  {
+    "key": "en|The word is bus.",
+    "text": "The word is bus.",
+    "lang": "en",
+    "id": "87078037cc039889bb78"
+  },
+  {
+    "key": "en|Which word rhymes with cat? Choose from: sun, hat, or dog.",
+    "text": "Which word rhymes with cat? Choose from: sun, hat, or dog.",
+    "lang": "en",
+    "id": "818ec5b5575cd396f4fb"
+  },
+  {
+    "key": "en|Listen for the same ending sound as cat.",
+    "text": "Listen for the same ending sound as cat.",
+    "lang": "en",
+    "id": "b952afbaf364ff9b297c"
+  },
+  {
+    "key": "en|Cat and hat have the same ending sound.",
+    "text": "Cat and hat have the same ending sound.",
+    "lang": "en",
+    "id": "1ab7f8465a7590975ce2"
+  },
+  {
+    "key": "en|Which word rhymes with sun? Choose from: run, cat, or bed.",
+    "text": "Which word rhymes with sun? Choose from: run, cat, or bed.",
+    "lang": "en",
+    "id": "f7259542f3807b2da766"
+  },
+  {
+    "key": "en|Listen for the same ending sound as sun.",
+    "text": "Listen for the same ending sound as sun.",
+    "lang": "en",
+    "id": "1b43ddeca2e70079c03b"
+  },
+  {
+    "key": "en|Sun and run have the same ending sound.",
+    "text": "Sun and run have the same ending sound.",
+    "lang": "en",
+    "id": "1456a903f1d8b9727d6e"
+  },
+  {
+    "key": "en|Which word rhymes with dog? Choose from: hat, pig, or log.",
+    "text": "Which word rhymes with dog? Choose from: hat, pig, or log.",
+    "lang": "en",
+    "id": "e8e5120d64eee0d5ecdb"
+  },
+  {
+    "key": "en|Listen for the same ending sound as dog.",
+    "text": "Listen for the same ending sound as dog.",
+    "lang": "en",
+    "id": "f9a766cab695b121f6a8"
+  },
+  {
+    "key": "en|Dog and log have the same ending sound.",
+    "text": "Dog and log have the same ending sound.",
+    "lang": "en",
+    "id": "ce702247375c26dd74a7"
+  },
+  {
+    "key": "en|Which word rhymes with bed? Choose from: red, cup, or sit.",
+    "text": "Which word rhymes with bed? Choose from: red, cup, or sit.",
+    "lang": "en",
+    "id": "af5493387d64d027887e"
+  },
+  {
+    "key": "en|Listen for the same ending sound as bed.",
+    "text": "Listen for the same ending sound as bed.",
+    "lang": "en",
+    "id": "2d9762edc9f1d0cd5616"
+  },
+  {
+    "key": "en|Bed and red have the same ending sound.",
+    "text": "Bed and red have the same ending sound.",
+    "lang": "en",
+    "id": "0a4ac33221ae3cb20692"
+  },
+  {
+    "key": "en|Which word rhymes with pig? Choose from: dog, dig, or sun.",
+    "text": "Which word rhymes with pig? Choose from: dog, dig, or sun.",
+    "lang": "en",
+    "id": "8c60436151db4fd01aff"
+  },
+  {
+    "key": "en|Listen for the same ending sound as pig.",
+    "text": "Listen for the same ending sound as pig.",
+    "lang": "en",
+    "id": "f60f1e2f921658fbfa0c"
+  },
+  {
+    "key": "en|Pig and dig have the same ending sound.",
+    "text": "Pig and dig have the same ending sound.",
+    "lang": "en",
+    "id": "6f502939a67e423f2426"
+  },
+  {
+    "key": "en|Which word rhymes with hop? Choose from: top, pen, or cat.",
+    "text": "Which word rhymes with hop? Choose from: top, pen, or cat.",
+    "lang": "en",
+    "id": "240f363916a2dae9bfff"
+  },
+  {
+    "key": "en|Listen for the same ending sound as hop.",
+    "text": "Listen for the same ending sound as hop.",
+    "lang": "en",
+    "id": "5cb936d9d899c9811943"
+  },
+  {
+    "key": "en|Hop and top have the same ending sound.",
+    "text": "Hop and top have the same ending sound.",
+    "lang": "en",
+    "id": "305eca78656f417b4c4c"
+  },
+  {
+    "key": "en|Which letter completes cat?",
+    "text": "Which letter completes cat?",
+    "lang": "en",
+    "id": "701b3d609e5c28f448f2"
+  },
+  {
+    "key": "en|Say cat slowly. Listen to its middle sound.",
+    "text": "Say cat slowly. Listen to its middle sound.",
+    "lang": "en",
+    "id": "b745e6775413e443f283"
+  },
+  {
+    "key": "en|Cat is spelled c · a · t.",
+    "text": "Cat is spelled c · a · t.",
+    "lang": "en",
+    "id": "05eae72e915375176193"
+  },
+  {
+    "key": "en|Which letter completes sun?",
+    "text": "Which letter completes sun?",
+    "lang": "en",
+    "id": "6a64ceb741e3bb934731"
+  },
+  {
+    "key": "en|Say sun slowly. Listen to its middle sound.",
+    "text": "Say sun slowly. Listen to its middle sound.",
+    "lang": "en",
+    "id": "5cbc5d683010b40ebb6d"
+  },
+  {
+    "key": "en|Sun is spelled s · u · n.",
+    "text": "Sun is spelled s · u · n.",
+    "lang": "en",
+    "id": "91e975c1de4ea8404a20"
+  },
+  {
+    "key": "en|Which letter completes pig?",
+    "text": "Which letter completes pig?",
+    "lang": "en",
+    "id": "58394b04831b1d141817"
+  },
+  {
+    "key": "en|Say pig slowly. Listen to its middle sound.",
+    "text": "Say pig slowly. Listen to its middle sound.",
+    "lang": "en",
+    "id": "4d1206c6af8063228132"
+  },
+  {
+    "key": "en|Pig is spelled p · i · g.",
+    "text": "Pig is spelled p · i · g.",
+    "lang": "en",
+    "id": "075b256d1ae26e5252c6"
+  },
+  {
+    "key": "en|Which letter completes bed?",
+    "text": "Which letter completes bed?",
+    "lang": "en",
+    "id": "591ec5b2d5f38721fe3c"
+  },
+  {
+    "key": "en|Say bed slowly. Listen to its middle sound.",
+    "text": "Say bed slowly. Listen to its middle sound.",
+    "lang": "en",
+    "id": "475d0a9a582a8405172a"
+  },
+  {
+    "key": "en|Bed is spelled b · e · d.",
+    "text": "Bed is spelled b · e · d.",
+    "lang": "en",
+    "id": "9698ac017b177e3701c3"
+  },
+  {
+    "key": "en|Which letter completes dog?",
+    "text": "Which letter completes dog?",
+    "lang": "en",
+    "id": "3487dca9f9c0e33bcb94"
+  },
+  {
+    "key": "en|Say dog slowly. Listen to its middle sound.",
+    "text": "Say dog slowly. Listen to its middle sound.",
+    "lang": "en",
+    "id": "6e0ef6948c3f40464465"
+  },
+  {
+    "key": "en|Dog is spelled d · o · g.",
+    "text": "Dog is spelled d · o · g.",
+    "lang": "en",
+    "id": "5ed69558b4acbc4379aa"
+  },
+  {
+    "key": "en|Which letter completes cup?",
+    "text": "Which letter completes cup?",
+    "lang": "en",
+    "id": "8efbfebd153602e0208f"
+  },
+  {
+    "key": "en|Say cup slowly. Listen to its middle sound.",
+    "text": "Say cup slowly. Listen to its middle sound.",
+    "lang": "en",
+    "id": "ab48745aad59fa6954b7"
+  },
+  {
+    "key": "en|Cup is spelled c · u · p.",
+    "text": "Cup is spelled c · u · p.",
+    "lang": "en",
+    "id": "0025c1cbfd88347a5215"
+  },
+  {
+    "key": "en|How many dots can you count?",
+    "text": "How many dots can you count?",
+    "lang": "en",
+    "id": "6891a499a95f0f17cb3f"
+  },
+  {
+    "key": "en|Touch or point to each dot once as you count.",
+    "text": "Touch or point to each dot once as you count.",
+    "lang": "en",
+    "id": "55b2de7f287d21d87d8c"
+  },
+  {
+    "key": "en|There is 1 dot. The last number tells how many.",
+    "text": "There is 1 dot. The last number tells how many.",
+    "lang": "en",
+    "id": "2d3214f82a8ed8e1bdb1"
+  },
+  {
+    "key": "en|There are 2 dots. The last number tells how many.",
+    "text": "There are 2 dots. The last number tells how many.",
+    "lang": "en",
+    "id": "8db2ec94976381e13b2f"
+  },
+  {
+    "key": "en|There are 3 dots. The last number tells how many.",
+    "text": "There are 3 dots. The last number tells how many.",
+    "lang": "en",
+    "id": "d47252b6f07d6fff2011"
+  },
+  {
+    "key": "en|There are 4 dots. The last number tells how many.",
+    "text": "There are 4 dots. The last number tells how many.",
+    "lang": "en",
+    "id": "1ed5f868dfb90030d774"
+  },
+  {
+    "key": "en|There are 5 dots. The last number tells how many.",
+    "text": "There are 5 dots. The last number tells how many.",
+    "lang": "en",
+    "id": "c9c8178b4ea6a37ae388"
+  },
+  {
+    "key": "en|There are 6 dots. The last number tells how many.",
+    "text": "There are 6 dots. The last number tells how many.",
+    "lang": "en",
+    "id": "20c321df6cc0479b0fa3"
+  },
+  {
+    "key": "en|Count one row, then keep counting in the next row.",
+    "text": "Count one row, then keep counting in the next row.",
+    "lang": "en",
+    "id": "728fe057de7319a54451"
+  },
+  {
+    "key": "en|There are 7 dots altogether.",
+    "text": "There are 7 dots altogether.",
+    "lang": "en",
+    "id": "674ff5575f63adcc7d9d"
+  },
+  {
+    "key": "en|There are 8 dots altogether.",
+    "text": "There are 8 dots altogether.",
+    "lang": "en",
+    "id": "e624189719444021e4c4"
+  },
+  {
+    "key": "en|There are 9 dots altogether.",
+    "text": "There are 9 dots altogether.",
+    "lang": "en",
+    "id": "d05a83803ab1a68dbed7"
+  },
+  {
+    "key": "en|There are 10 dots altogether.",
+    "text": "There are 10 dots altogether.",
+    "lang": "en",
+    "id": "9db995f54386f69b925b"
+  },
+  {
+    "key": "en|Which number is greater?",
+    "text": "Which number is greater?",
+    "lang": "en",
+    "id": "b32c76bdb042ac499e45"
+  },
+  {
+    "key": "en|The number you say later when counting is more.",
+    "text": "The number you say later when counting is more.",
+    "lang": "en",
+    "id": "6e7aaf67edf954a82ebc"
+  },
+  {
+    "key": "en|4 is more than 2.",
+    "text": "4 is more than 2.",
+    "lang": "en",
+    "id": "afec5b69e13612f3cfff"
+  },
+  {
+    "key": "en|5 is more than 3.",
+    "text": "5 is more than 3.",
+    "lang": "en",
+    "id": "f6f64c61688ae8192160"
+  },
+  {
+    "key": "en|6 is more than 4.",
+    "text": "6 is more than 4.",
+    "lang": "en",
+    "id": "38dcfd2880feb4d239c5"
+  },
+  {
+    "key": "en|7 is more than 5.",
+    "text": "7 is more than 5.",
+    "lang": "en",
+    "id": "f582b6f74ec4e6250cd0"
+  },
+  {
+    "key": "en|Which number is smaller?",
+    "text": "Which number is smaller?",
+    "lang": "en",
+    "id": "d2f80088e8dd45d530a9"
+  },
+  {
+    "key": "en|Think of two groups. Which group would have fewer things?",
+    "text": "Think of two groups. Which group would have fewer things?",
+    "lang": "en",
+    "id": "3bb38b58419d8d788981"
+  },
+  {
+    "key": "en|2 is smaller than 5.",
+    "text": "2 is smaller than 5.",
+    "lang": "en",
+    "id": "8f221d4d7b13ab470139"
+  },
+  {
+    "key": "en|1 is smaller than 3.",
+    "text": "1 is smaller than 3.",
+    "lang": "en",
+    "id": "4adba8fdd006611a3f57"
+  },
+  {
+    "key": "en|How many altogether?",
+    "text": "How many altogether?",
+    "lang": "en",
+    "id": "8e29bf6b1687549a7078"
+  },
+  {
+    "key": "en|Hold up 1 finger. Add 1 more, then count them both.",
+    "text": "Hold up 1 finger. Add 1 more, then count them both.",
+    "lang": "en",
+    "id": "3b84447d3c6acbd456a6"
+  },
+  {
+    "key": "en|1 and 1 together make 2.",
+    "text": "1 and 1 together make 2.",
+    "lang": "en",
+    "id": "e799c673d793c8bbfb48"
+  },
+  {
+    "key": "en|Hold up 2 fingers. Add 1 more, then count them all.",
+    "text": "Hold up 2 fingers. Add 1 more, then count them all.",
+    "lang": "en",
+    "id": "d9f53227ea3b89fcb02e"
+  },
+  {
+    "key": "en|2 and 1 together make 3.",
+    "text": "2 and 1 together make 3.",
+    "lang": "en",
+    "id": "46f5525f625cede770e1"
+  },
+  {
+    "key": "en|Hold up 2 fingers. Add 2 more, then count them all.",
+    "text": "Hold up 2 fingers. Add 2 more, then count them all.",
+    "lang": "en",
+    "id": "23fbd5e008a8b394c5cd"
+  },
+  {
+    "key": "en|2 and 2 together make 4.",
+    "text": "2 and 2 together make 4.",
+    "lang": "en",
+    "id": "86b07d9b9c9a6b6132b3"
+  },
+  {
+    "key": "en|Hold up 3 fingers. Add 2 more, then count them all.",
+    "text": "Hold up 3 fingers. Add 2 more, then count them all.",
+    "lang": "en",
+    "id": "056ab61f82b374b45dbd"
+  },
+  {
+    "key": "en|3 and 2 together make 5.",
+    "text": "3 and 2 together make 5.",
+    "lang": "en",
+    "id": "77efb09b3ee2df192682"
+  },
+  {
+    "key": "en|Hold up 4 fingers. Add 2 more, then count them all.",
+    "text": "Hold up 4 fingers. Add 2 more, then count them all.",
+    "lang": "en",
+    "id": "4d9e202e7ec4794b755b"
+  },
+  {
+    "key": "en|4 and 2 together make 6.",
+    "text": "4 and 2 together make 6.",
+    "lang": "en",
+    "id": "9f9c3151b3dcfd17012e"
+  },
+  {
+    "key": "en|Hold up 5 fingers. Add 3 more, then count them all.",
+    "text": "Hold up 5 fingers. Add 3 more, then count them all.",
+    "lang": "en",
+    "id": "de462bef913574a2750b"
+  },
+  {
+    "key": "en|5 and 3 together make 8.",
+    "text": "5 and 3 together make 8.",
+    "lang": "en",
+    "id": "cfe15563d22e4ab68f35"
+  },
+  {
+    "key": "en|How many are left?",
+    "text": "How many are left?",
+    "lang": "en",
+    "id": "9b905af6922ea3e91e71"
+  },
+  {
+    "key": "en|Start with 3 fingers or counters. Put 1 away. Count what is left.",
+    "text": "Start with 3 fingers or counters. Put 1 away. Count what is left.",
+    "lang": "en",
+    "id": "e2f2846ef1311c7d6077"
+  },
+  {
+    "key": "en|3 take away 1 leaves 2.",
+    "text": "3 take away 1 leaves 2.",
+    "lang": "en",
+    "id": "7ab411e9e46fae3520e3"
+  },
+  {
+    "key": "en|Start with 5 fingers or counters. Put 2 away. Count what is left.",
+    "text": "Start with 5 fingers or counters. Put 2 away. Count what is left.",
+    "lang": "en",
+    "id": "ae20f850431624de619f"
+  },
+  {
+    "key": "en|5 take away 2 leaves 3.",
+    "text": "5 take away 2 leaves 3.",
+    "lang": "en",
+    "id": "77a73012fad0e990328d"
+  },
+  {
+    "key": "en|Start with 6 fingers or counters. Put 1 away. Count what is left.",
+    "text": "Start with 6 fingers or counters. Put 1 away. Count what is left.",
+    "lang": "en",
+    "id": "34d167f8c78f495f5bca"
+  },
+  {
+    "key": "en|6 take away 1 leaves 5.",
+    "text": "6 take away 1 leaves 5.",
+    "lang": "en",
+    "id": "e3315fa9fab43be1a19c"
+  },
+  {
+    "key": "en|Start with 7 fingers or counters. Put 3 away. Count what is left.",
+    "text": "Start with 7 fingers or counters. Put 3 away. Count what is left.",
+    "lang": "en",
+    "id": "cde06add067fcaa33853"
+  },
+  {
+    "key": "en|7 take away 3 leaves 4.",
+    "text": "7 take away 3 leaves 4.",
+    "lang": "en",
+    "id": "3e9af3c664f3d71546c1"
+  },
+  {
+    "key": "en|Which number comes next?",
+    "text": "Which number comes next?",
+    "lang": "en",
+    "id": "6767759e458b71aa3dcf"
+  },
+  {
+    "key": "en|Count along from the first number.",
+    "text": "Count along from the first number.",
+    "lang": "en",
+    "id": "4ef75ded4d6b6cfdfd49"
+  },
+  {
+    "key": "en|4 comes next when we count.",
+    "text": "4 comes next when we count.",
+    "lang": "en",
+    "id": "941fcb33aa3af215dda6"
+  },
+  {
+    "key": "en|5 comes next when we count.",
+    "text": "5 comes next when we count.",
+    "lang": "en",
+    "id": "64789593c7d49fc04451"
+  },
+  {
+    "key": "en|8 comes next when we count.",
+    "text": "8 comes next when we count.",
+    "lang": "en",
+    "id": "7fcedb447fd8c9589116"
+  },
+  {
+    "key": "en|There are no stars. Which number means none?",
+    "text": "There are no stars. Which number means none?",
+    "lang": "en",
+    "id": "39398ba9dc380c3071a0"
+  },
+  {
+    "key": "en|Zero is the number we use when there are none.",
+    "text": "Zero is the number we use when there are none.",
+    "lang": "en",
+    "id": "26e9767ceefcb23ae959"
+  },
+  {
+    "key": "en|Zero means there are none to count.",
+    "text": "Zero means there are none to count.",
+    "lang": "en",
+    "id": "5ad13c32a67a0f8c0b1b"
+  },
+  {
+    "key": "ar|أَيْنَ حَرْفُ ب؟",
+    "text": "أَيْنَ حَرْفُ ب؟",
+    "lang": "ar",
+    "id": "679f9720b9c036ae7100"
+  },
+  {
+    "key": "ar|اُنْظُرْ إِلَى شَكْلِ الْحَرْفِ وَنُقَطِهِ.",
+    "text": "اُنْظُرْ إِلَى شَكْلِ الْحَرْفِ وَنُقَطِهِ.",
+    "lang": "ar",
+    "id": "45712fe2bd5a577960d1"
+  },
+  {
+    "key": "ar|هَذَا هُوَ حَرْفُ ب.",
+    "text": "هَذَا هُوَ حَرْفُ ب.",
+    "lang": "ar",
+    "id": "70b42ed77101106ba636"
+  },
+  {
+    "key": "ar|أَيْنَ حَرْفُ ت؟",
+    "text": "أَيْنَ حَرْفُ ت؟",
+    "lang": "ar",
+    "id": "379903404eee81850657"
+  },
+  {
+    "key": "ar|هَذَا هُوَ حَرْفُ ت.",
+    "text": "هَذَا هُوَ حَرْفُ ت.",
+    "lang": "ar",
+    "id": "e1513178a0636ab8c513"
+  },
+  {
+    "key": "ar|أَيْنَ حَرْفُ م؟",
+    "text": "أَيْنَ حَرْفُ م؟",
+    "lang": "ar",
+    "id": "5b09705d1538f732f6f7"
+  },
+  {
+    "key": "ar|هَذَا هُوَ حَرْفُ م.",
+    "text": "هَذَا هُوَ حَرْفُ م.",
+    "lang": "ar",
+    "id": "f495b4dd8c025bcdbe69"
+  },
+  {
+    "key": "ar|أَيْنَ حَرْفُ س؟",
+    "text": "أَيْنَ حَرْفُ س؟",
+    "lang": "ar",
+    "id": "6b08e911dba8ec3e47ca"
+  },
+  {
+    "key": "ar|هَذَا هُوَ حَرْفُ س.",
+    "text": "هَذَا هُوَ حَرْفُ س.",
+    "lang": "ar",
+    "id": "daa19b2848183622eb35"
+  },
+  {
+    "key": "ar|أَيْنَ حَرْفُ ف؟",
+    "text": "أَيْنَ حَرْفُ ف؟",
+    "lang": "ar",
+    "id": "fc9dddb5d99d42ad71c5"
+  },
+  {
+    "key": "ar|هَذَا هُوَ حَرْفُ ف.",
+    "text": "هَذَا هُوَ حَرْفُ ف.",
+    "lang": "ar",
+    "id": "fa69552d1a693d1830f2"
+  },
+  {
+    "key": "ar|أَيْنَ حَرْفُ ن؟",
+    "text": "أَيْنَ حَرْفُ ن؟",
+    "lang": "ar",
+    "id": "96559d06a1f6546ed4a9"
+  },
+  {
+    "key": "ar|هَذَا هُوَ حَرْفُ ن.",
+    "text": "هَذَا هُوَ حَرْفُ ن.",
+    "lang": "ar",
+    "id": "750988f07567adbbd33f"
+  },
+  {
+    "key": "ar|بِأَيِّ حَرْفٍ تَبْدَأُ كَلِمَةُ بَطَّة؟",
+    "text": "بِأَيِّ حَرْفٍ تَبْدَأُ كَلِمَةُ بَطَّة؟",
+    "lang": "ar",
+    "id": "1d1629de342818144083"
+  },
+  {
+    "key": "ar|أَوَّلُ الْكَلِمَةِ بَـ.",
+    "text": "أَوَّلُ الْكَلِمَةِ بَـ.",
+    "lang": "ar",
+    "id": "33d0fb8c98d9ea2099f6"
+  },
+  {
+    "key": "ar|تَبْدَأُ كَلِمَةُ بَطَّة بِحَرْفِ ب.",
+    "text": "تَبْدَأُ كَلِمَةُ بَطَّة بِحَرْفِ ب.",
+    "lang": "ar",
+    "id": "90d8c48b037f50266dcf"
+  },
+  {
+    "key": "ar|بِأَيِّ حَرْفٍ تَبْدَأُ كَلِمَةُ تُفَّاحَة؟",
+    "text": "بِأَيِّ حَرْفٍ تَبْدَأُ كَلِمَةُ تُفَّاحَة؟",
+    "lang": "ar",
+    "id": "01f15289fe385ee59f8e"
+  },
+  {
+    "key": "ar|أَوَّلُ الْكَلِمَةِ تُـ.",
+    "text": "أَوَّلُ الْكَلِمَةِ تُـ.",
+    "lang": "ar",
+    "id": "abffb0127041d374fa97"
+  },
+  {
+    "key": "ar|تَبْدَأُ كَلِمَةُ تُفَّاحَة بِحَرْفِ ت.",
+    "text": "تَبْدَأُ كَلِمَةُ تُفَّاحَة بِحَرْفِ ت.",
+    "lang": "ar",
+    "id": "0839570fbae7b62fc640"
+  },
+  {
+    "key": "ar|بِأَيِّ حَرْفٍ تَبْدَأُ كَلِمَةُ مَوْز؟",
+    "text": "بِأَيِّ حَرْفٍ تَبْدَأُ كَلِمَةُ مَوْز؟",
+    "lang": "ar",
+    "id": "96708398c64eb4f71644"
+  },
+  {
+    "key": "ar|أَوَّلُ الْكَلِمَةِ مَـ.",
+    "text": "أَوَّلُ الْكَلِمَةِ مَـ.",
+    "lang": "ar",
+    "id": "15166acb6312bbbaf316"
+  },
+  {
+    "key": "ar|تَبْدَأُ كَلِمَةُ مَوْز بِحَرْفِ م.",
+    "text": "تَبْدَأُ كَلِمَةُ مَوْز بِحَرْفِ م.",
+    "lang": "ar",
+    "id": "5a67554b5912d8fe4820"
+  },
+  {
+    "key": "ar|بِأَيِّ حَرْفٍ تَبْدَأُ كَلِمَةُ سَمَكَة؟",
+    "text": "بِأَيِّ حَرْفٍ تَبْدَأُ كَلِمَةُ سَمَكَة؟",
+    "lang": "ar",
+    "id": "1eb4b3795f2a48640480"
+  },
+  {
+    "key": "ar|أَوَّلُ الْكَلِمَةِ سَـ.",
+    "text": "أَوَّلُ الْكَلِمَةِ سَـ.",
+    "lang": "ar",
+    "id": "01ae85f1202de1ffb402"
+  },
+  {
+    "key": "ar|تَبْدَأُ كَلِمَةُ سَمَكَة بِحَرْفِ س.",
+    "text": "تَبْدَأُ كَلِمَةُ سَمَكَة بِحَرْفِ س.",
+    "lang": "ar",
+    "id": "db5c0a389a49dce33abe"
+  },
+  {
+    "key": "ar|بِأَيِّ حَرْفٍ تَبْدَأُ كَلِمَةُ فِيل؟",
+    "text": "بِأَيِّ حَرْفٍ تَبْدَأُ كَلِمَةُ فِيل؟",
+    "lang": "ar",
+    "id": "5175e4ed7acdec8930c6"
+  },
+  {
+    "key": "ar|أَوَّلُ الْكَلِمَةِ فِـ.",
+    "text": "أَوَّلُ الْكَلِمَةِ فِـ.",
+    "lang": "ar",
+    "id": "387f60934ad73f87aaa6"
+  },
+  {
+    "key": "ar|تَبْدَأُ كَلِمَةُ فِيل بِحَرْفِ ف.",
+    "text": "تَبْدَأُ كَلِمَةُ فِيل بِحَرْفِ ف.",
+    "lang": "ar",
+    "id": "09c5620e95fd490f2394"
+  },
+  {
+    "key": "ar|بِأَيِّ حَرْفٍ تَبْدَأُ كَلِمَةُ دُبّ؟",
+    "text": "بِأَيِّ حَرْفٍ تَبْدَأُ كَلِمَةُ دُبّ؟",
+    "lang": "ar",
+    "id": "7df350501ca058563362"
+  },
+  {
+    "key": "ar|أَوَّلُ الْكَلِمَةِ دُ.",
+    "text": "أَوَّلُ الْكَلِمَةِ دُ.",
+    "lang": "ar",
+    "id": "4d65ac13ae721402fa2a"
+  },
+  {
+    "key": "ar|تَبْدَأُ كَلِمَةُ دُبّ بِحَرْفِ د.",
+    "text": "تَبْدَأُ كَلِمَةُ دُبّ بِحَرْفِ د.",
+    "lang": "ar",
+    "id": "4e773862734e8a40bac0"
+  },
+  {
+    "key": "ar|أَيُّ حَرْفٍ عَلَيْهِ الْفَتْحَة؟",
+    "text": "أَيُّ حَرْفٍ عَلَيْهِ الْفَتْحَة؟",
+    "lang": "ar",
+    "id": "8b73fc1a6fb65a26ddea"
+  },
+  {
+    "key": "ar|الْفَتْحَةُ خَطٌّ صَغِيرٌ فَوْقَ الْحَرْفِ.",
+    "text": "الْفَتْحَةُ خَطٌّ صَغِيرٌ فَوْقَ الْحَرْفِ.",
+    "lang": "ar",
+    "id": "521cd3e11de37a080485"
+  },
+  {
+    "key": "ar|هَذَا حَرْفُ ب مَعَ الْفَتْحَة: بَ.",
+    "text": "هَذَا حَرْفُ ب مَعَ الْفَتْحَة: بَ.",
+    "lang": "ar",
+    "id": "d59265b5cf4cc73dab11"
+  },
+  {
+    "key": "ar|أَيُّ حَرْفٍ تَحْتَهُ الْكَسْرَة؟",
+    "text": "أَيُّ حَرْفٍ تَحْتَهُ الْكَسْرَة؟",
+    "lang": "ar",
+    "id": "41f6c0264bcfd7ecfe8c"
+  },
+  {
+    "key": "ar|الْكَسْرَةُ خَطٌّ صَغِيرٌ تَحْتَ الْحَرْفِ.",
+    "text": "الْكَسْرَةُ خَطٌّ صَغِيرٌ تَحْتَ الْحَرْفِ.",
+    "lang": "ar",
+    "id": "f3cad721581b866415d2"
+  },
+  {
+    "key": "ar|هَذَا حَرْفُ ب مَعَ الْكَسْرَة: بِ.",
+    "text": "هَذَا حَرْفُ ب مَعَ الْكَسْرَة: بِ.",
+    "lang": "ar",
+    "id": "6fe4c5fd60ecd131ba43"
+  },
+  {
+    "key": "ar|أَيُّ حَرْفٍ عَلَيْهِ الضَّمَّة؟",
+    "text": "أَيُّ حَرْفٍ عَلَيْهِ الضَّمَّة؟",
+    "lang": "ar",
+    "id": "45bbf8539c3ba8ba5501"
+  },
+  {
+    "key": "ar|الضَّمَّةُ تُشْبِهُ وَاوًا صَغِيرَةً فَوْقَ الْحَرْفِ.",
+    "text": "الضَّمَّةُ تُشْبِهُ وَاوًا صَغِيرَةً فَوْقَ الْحَرْفِ.",
+    "lang": "ar",
+    "id": "4b65b99ea5bbf99f4f16"
+  },
+  {
+    "key": "ar|هَذَا حَرْفُ ب مَعَ الضَّمَّة: بُ.",
+    "text": "هَذَا حَرْفُ ب مَعَ الضَّمَّة: بُ.",
+    "lang": "ar",
+    "id": "9d87ecc458066eaebc26"
+  },
+  {
+    "key": "ar|هَذَا حَرْفُ ت مَعَ الْفَتْحَة: تَ.",
+    "text": "هَذَا حَرْفُ ت مَعَ الْفَتْحَة: تَ.",
+    "lang": "ar",
+    "id": "6c8228039480977881fc"
+  },
+  {
+    "key": "ar|هَذَا حَرْفُ م مَعَ الْكَسْرَة: مِ.",
+    "text": "هَذَا حَرْفُ م مَعَ الْكَسْرَة: مِ.",
+    "lang": "ar",
+    "id": "2f3583845c715be325b9"
+  },
+  {
+    "key": "ar|هَذَا حَرْفُ س مَعَ الضَّمَّة: سُ.",
+    "text": "هَذَا حَرْفُ س مَعَ الضَّمَّة: سُ.",
+    "lang": "ar",
+    "id": "3b383979c7991645a3d0"
+  },
+  {
+    "key": "ar|اِقْرَأِ الْكَلِمَةَ، ثُمَّ اِخْتَرْ صُورَتَهَا.",
+    "text": "اِقْرَأِ الْكَلِمَةَ، ثُمَّ اِخْتَرْ صُورَتَهَا.",
+    "lang": "ar",
+    "id": "ea62421b4ce123bb7511"
+  },
+  {
+    "key": "ar|نَفْتَحُهُ لِنَدْخُلَ الْغُرْفَةَ.",
+    "text": "نَفْتَحُهُ لِنَدْخُلَ الْغُرْفَةَ.",
+    "lang": "ar",
+    "id": "9b17034466d787ec4de8"
+  },
+  {
+    "key": "ar|هَذِهِ صُورَةُ بَاب.",
+    "text": "هَذِهِ صُورَةُ بَاب.",
+    "lang": "ar",
+    "id": "a8aaf1339f17bda42428"
+  },
+  {
+    "key": "ar|نَكْتُبُ بِهِ.",
+    "text": "نَكْتُبُ بِهِ.",
+    "lang": "ar",
+    "id": "f545afbe83e06a3d4cbb"
+  },
+  {
+    "key": "ar|هَذِهِ صُورَةُ قَلَم.",
+    "text": "هَذِهِ صُورَةُ قَلَم.",
+    "lang": "ar",
+    "id": "4bd964734ccd09c1afa1"
+  },
+  {
+    "key": "ar|نَقْرَأُ فِيهِ.",
+    "text": "نَقْرَأُ فِيهِ.",
+    "lang": "ar",
+    "id": "e93dfc2c6a8776747bf0"
+  },
+  {
+    "key": "ar|هَذِهِ صُورَةُ كِتَاب.",
+    "text": "هَذِهِ صُورَةُ كِتَاب.",
+    "lang": "ar",
+    "id": "80ec4ffccfb9d38c3cc1"
+  },
+  {
+    "key": "ar|نَرَاهُ فِي السَّمَاءِ لَيْلًا.",
+    "text": "نَرَاهُ فِي السَّمَاءِ لَيْلًا.",
+    "lang": "ar",
+    "id": "33b10b6b95d10d3ff322"
+  },
+  {
+    "key": "ar|هَذِهِ صُورَةُ قَمَر.",
+    "text": "هَذِهِ صُورَةُ قَمَر.",
+    "lang": "ar",
+    "id": "efb1ad5549a8ab272a5b"
+  },
+  {
+    "key": "ar|تُعْطِينَا الضَّوْءَ وَالدِّفْءَ.",
+    "text": "تُعْطِينَا الضَّوْءَ وَالدِّفْءَ.",
+    "lang": "ar",
+    "id": "99401a7493cd3005ccd0"
+  },
+  {
+    "key": "ar|هَذِهِ صُورَةُ شَمْس.",
+    "text": "هَذِهِ صُورَةُ شَمْس.",
+    "lang": "ar",
+    "id": "f04ecb8305b49db3cff1"
+  },
+  {
+    "key": "ar|لَهَا بَتَلَاتٌ جَمِيلَةٌ.",
+    "text": "لَهَا بَتَلَاتٌ جَمِيلَةٌ.",
+    "lang": "ar",
+    "id": "25cfb3bc460ca6576efd"
+  },
+  {
+    "key": "ar|هَذِهِ صُورَةُ وَرْدَة.",
+    "text": "هَذِهِ صُورَةُ وَرْدَة.",
+    "lang": "ar",
+    "id": "7d678e2ff4230db988ee"
+  },
+  {
+    "key": "en|Which shape has three sides?",
+    "text": "Which shape has three sides?",
+    "lang": "en",
+    "id": "4464607eb1364341021a"
+  },
+  {
+    "key": "en|Count the straight sides.",
+    "text": "Count the straight sides.",
+    "lang": "en",
+    "id": "d48806ac6b222957fe75"
+  },
+  {
+    "key": "en|A triangle has three straight sides.",
+    "text": "A triangle has three straight sides.",
+    "lang": "en",
+    "id": "34cfac07feac87622873"
+  },
+  {
+    "key": "en|Which shape is round?",
+    "text": "Which shape is round?",
+    "lang": "en",
+    "id": "e5116ee01ecce9c01ad6"
+  },
+  {
+    "key": "en|A round shape has no corners.",
+    "text": "A round shape has no corners.",
+    "lang": "en",
+    "id": "d8b5b2fcece0baa6e373"
+  },
+  {
+    "key": "en|A circle is round and has no corners.",
+    "text": "A circle is round and has no corners.",
+    "lang": "en",
+    "id": "c16887c3b106ab6bee3b"
+  },
+  {
+    "key": "en|Which shape has four equal sides?",
+    "text": "Which shape has four equal sides?",
+    "lang": "en",
+    "id": "7012d886a0be8523771c"
+  },
+  {
+    "key": "en|Look for four straight sides of the same length.",
+    "text": "Look for four straight sides of the same length.",
+    "lang": "en",
+    "id": "40cd75acb160061f23af"
+  },
+  {
+    "key": "en|A square has four equal sides and four corners.",
+    "text": "A square has four equal sides and four corners.",
+    "lang": "en",
+    "id": "f675ae4f1fd385f2add1"
+  },
+  {
+    "key": "en|Which one is a living thing that can grow?",
+    "text": "Which one is a living thing that can grow?",
+    "lang": "en",
+    "id": "086bf794389a6d2212f2"
+  },
+  {
+    "key": "en|Living things grow and change.",
+    "text": "Living things grow and change.",
+    "lang": "en",
+    "id": "9b71e558b28173eb475d"
+  },
+  {
+    "key": "en|A plant is a living thing. It grows.",
+    "text": "A plant is a living thing. It grows.",
+    "lang": "en",
+    "id": "5939b33190abde22aa01"
+  },
+  {
+    "key": "en|Which animal has feathers?",
+    "text": "Which animal has feathers?",
+    "lang": "en",
+    "id": "0e7bec41fc097df16a2a"
+  },
+  {
+    "key": "en|Feathers cover this animal’s body.",
+    "text": "Feathers cover this animal’s body.",
+    "lang": "en",
+    "id": "ae0128278db9d454b22b"
+  },
+  {
+    "key": "en|Birds have feathers.",
+    "text": "Birds have feathers.",
+    "lang": "en",
+    "id": "b6e5f376bbed834a0cc6"
+  },
+  {
+    "key": "en|Which animal has fins?",
+    "text": "Which animal has fins?",
+    "lang": "en",
+    "id": "b260ece08cf83a9ed6f6"
+  },
+  {
+    "key": "en|This animal moves through water.",
+    "text": "This animal moves through water.",
+    "lang": "en",
+    "id": "63e2d2c0745bc6fd4954"
+  },
+  {
+    "key": "en|Fish use their fins to move and balance in water.",
+    "text": "Fish use their fins to move and balance in water.",
+    "lang": "en",
+    "id": "254e31ae877c1e21e671"
+  },
+  {
+    "key": "en|Which one helps keep you dry in rain?",
+    "text": "Which one helps keep you dry in rain?",
+    "lang": "en",
+    "id": "cfcff9ad0edb35bb83cc"
+  },
+  {
+    "key": "en|Choose something that makes a cover above you.",
+    "text": "Choose something that makes a cover above you.",
+    "lang": "en",
+    "id": "d75a34a3bca2eca80a8e"
+  },
+  {
+    "key": "en|An umbrella helps keep rain off you.",
+    "text": "An umbrella helps keep rain off you.",
+    "lang": "en",
+    "id": "5d498214a6a56100ed33"
+  },
+  {
+    "key": "en|What should we do before eating?",
+    "text": "What should we do before eating?",
+    "lang": "en",
+    "id": "bd65f5dddaa465ad4cd9"
+  },
+  {
+    "key": "en|Think about keeping germs away from food.",
+    "text": "Think about keeping germs away from food.",
+    "lang": "en",
+    "id": "fcbf3556a97c9aa90c2d"
+  },
+  {
+    "key": "en|Washing hands with soap and water helps remove germs.",
+    "text": "Washing hands with soap and water helps remove germs.",
+    "lang": "en",
+    "id": "0de21fe6d688ffb6ca12"
+  },
+  {
+    "key": "en|What do roots take in from the ground?",
+    "text": "What do roots take in from the ground?",
+    "lang": "en",
+    "id": "723ffcfffaec02d4008a"
+  },
+  {
+    "key": "en|Roots spread through the soil.",
+    "text": "Roots spread through the soil.",
+    "lang": "en",
+    "id": "ef1a1908009675295da5"
+  },
+  {
+    "key": "en|Roots take in water from the ground.",
+    "text": "Roots take in water from the ground.",
+    "lang": "en",
+    "id": "a3cd9bc61a39fcfb0560"
+  },
+  {
+    "key": "en|What helps most plants make their food?",
+    "text": "What helps most plants make their food?",
+    "lang": "en",
+    "id": "ee793dd91402e6e6ff29"
+  },
+  {
+    "key": "en|Look up at the daytime sky.",
+    "text": "Look up at the daytime sky.",
+    "lang": "en",
+    "id": "47e3f3e981ca30a9bd26"
+  },
+  {
+    "key": "en|Most plants use light to help make their food.",
+    "text": "Most plants use light to help make their food.",
+    "lang": "en",
+    "id": "107b1ea72bedd04bac22"
+  },
+  {
+    "key": "en|Which material lets us see through it?",
+    "text": "Which material lets us see through it?",
+    "lang": "en",
+    "id": "7cf6a4c2152d901d65a6"
+  },
+  {
+    "key": "en|Think of looking through a window.",
+    "text": "Think of looking through a window.",
+    "lang": "en",
+    "id": "e84b6a601dd5ff3a5f45"
+  },
+  {
+    "key": "en|We can see through clear glass.",
+    "text": "We can see through clear glass.",
+    "lang": "en",
+    "id": "3f7565ee08994c192ac6"
+  },
+  {
+    "key": "en|Which object is usually soft?",
+    "text": "Which object is usually soft?",
+    "lang": "en",
+    "id": "5cd913c7780142934499"
+  },
+  {
+    "key": "en|Think about what feels comfortable to cuddle.",
+    "text": "Think about what feels comfortable to cuddle.",
+    "lang": "en",
+    "id": "e1715e4bd13ddd1adbce"
+  },
+  {
+    "key": "en|A teddy bear is usually soft.",
+    "text": "A teddy bear is usually soft.",
+    "lang": "en",
+    "id": "99437db6804ea29f355b"
+  },
+  {
+    "key": "en|Which animal is an insect?",
+    "text": "Which animal is an insect?",
+    "lang": "en",
+    "id": "a5d31c90b2d9f60dcbb5"
+  },
+  {
+    "key": "en|Insects have six legs.",
+    "text": "Insects have six legs.",
+    "lang": "en",
+    "id": "0072a08f35556d8c85ae"
+  },
+  {
+    "key": "en|A butterfly is an insect. It has six legs.",
+    "text": "A butterfly is an insect. It has six legs.",
+    "lang": "en",
+    "id": "3220cc0c62b1eaa9f072"
+  },
+  {
+    "key": "en|What is our home planet?",
+    "text": "What is our home planet?",
+    "lang": "en",
+    "id": "01ed6313f52a828c410b"
+  },
+  {
+    "key": "en|It is the planet where we all live.",
+    "text": "It is the planet where we all live.",
+    "lang": "en",
+    "id": "68f031cfa85c63146e66"
+  },
+  {
+    "key": "en|Earth is our home planet.",
+    "text": "Earth is our home planet.",
+    "lang": "en",
+    "id": "f2e276d6ecbca4e4f38f"
+  },
+  {
+    "key": "en|Which object makes its own light?",
+    "text": "Which object makes its own light?",
+    "lang": "en",
+    "id": "5a8b07d4c416e787a61b"
+  },
+  {
+    "key": "en|The Sun is a star.",
+    "text": "The Sun is a star.",
+    "lang": "en",
+    "id": "e927a717eefe30ef98b2"
+  },
+  {
+    "key": "en|The Sun makes its own light. The Moon reflects light from the Sun.",
+    "text": "The Sun makes its own light. The Moon reflects light from the Sun.",
+    "lang": "en",
+    "id": "a528afc59a90d033ebf3"
+  },
+  {
+    "key": "en|What comes next in this pattern?",
+    "text": "What comes next in this pattern?",
+    "lang": "en",
+    "id": "020d05dc618b8f83762f"
+  },
+  {
+    "key": "en|The two colors take turns: blue, yellow.",
+    "text": "The two colors take turns: blue, yellow.",
+    "lang": "en",
+    "id": "40fddf849d58f2cd6d89"
+  },
+  {
+    "key": "en|Blue comes next. The pattern repeats blue, yellow.",
+    "text": "Blue comes next. The pattern repeats blue, yellow.",
+    "lang": "en",
+    "id": "6b75581c079db366e975"
+  },
+  {
+    "key": "en|The repeating group is two triangles, then a circle.",
+    "text": "The repeating group is two triangles, then a circle.",
+    "lang": "en",
+    "id": "499545b1f94e542b2b5e"
+  },
+  {
+    "key": "en|A blue circle completes the repeating group.",
+    "text": "A blue circle completes the repeating group.",
+    "lang": "en",
+    "id": "3584a0a277e418b9acde"
+  },
+  {
+    "key": "en|What happens to an ice cube in a warm room?",
+    "text": "What happens to an ice cube in a warm room?",
+    "lang": "en",
+    "id": "974aed166348ee0d669c"
+  },
+  {
+    "key": "en|Think about an ice lolly on a warm day.",
+    "text": "Think about an ice lolly on a warm day.",
+    "lang": "en",
+    "id": "23f4bbe2f80e0a0eca51"
+  },
+  {
+    "key": "en|Ice warms up and melts into liquid water.",
+    "text": "Ice warms up and melts into liquid water.",
+    "lang": "en",
+    "id": "d428ab5e01536ea8e1ea"
+  },
+  {
+    "key": "en|What helps your body rest and grow?",
+    "text": "What helps your body rest and grow?",
+    "lang": "en",
+    "id": "92bae83a8d0dc2b6c43b"
+  },
+  {
+    "key": "en|Our bodies need time to rest.",
+    "text": "Our bodies need time to rest.",
+    "lang": "en",
+    "id": "e849648ee47ba6dafd61"
+  },
+  {
+    "key": "en|Enough sleep helps our bodies rest, learn and grow.",
+    "text": "Enough sleep helps our bodies rest, learn and grow.",
+    "lang": "en",
+    "id": "1fa205c029acd48a6d89"
+  },
+  {
+    "key": "en|What does a butterfly caterpillar become?",
+    "text": "What does a butterfly caterpillar become?",
+    "lang": "en",
+    "id": "ef0d4c87ac2d3519a6f6"
+  },
+  {
+    "key": "en|It changes inside a chrysalis.",
+    "text": "It changes inside a chrysalis.",
+    "lang": "en",
+    "id": "faa431362a0b793a200c"
+  },
+  {
+    "key": "en|A butterfly caterpillar changes into a butterfly. Some other caterpillars become moths.",
+    "text": "A butterfly caterpillar changes into a butterfly. Some other caterpillars become moths.",
+    "lang": "en",
+    "id": "4767852e4e43c3b96be7"
+  },
+  {
+    "key": "en|What can grow from a seed?",
+    "text": "What can grow from a seed?",
+    "lang": "en",
+    "id": "f9efff65549e0ac90824"
+  },
+  {
+    "key": "en|A seed can sprout when conditions are right.",
+    "text": "A seed can sprout when conditions are right.",
+    "lang": "en",
+    "id": "6a6c6621867508ace1f0"
+  },
+  {
+    "key": "en|A seed can grow into a plant with suitable water, air and warmth.",
+    "text": "A seed can grow into a plant with suitable water, air and warmth.",
+    "lang": "en",
+    "id": "e9bf470c09344996f08c"
+  },
+  {
+    "key": "en|Which action saves water?",
+    "text": "Which action saves water?",
+    "lang": "en",
+    "id": "2212eec359704ed02728"
+  },
+  {
+    "key": "en|Use only the water you need.",
+    "text": "Use only the water you need.",
+    "lang": "en",
+    "id": "719da5b9fa2e5300fae4"
+  },
+  {
+    "key": "en|Turning off the tap when you are not using it saves water.",
+    "text": "Turning off the tap when you are not using it saves water.",
+    "lang": "en",
+    "id": "d045bd1fa943a0659d58"
+  },
+  {
+    "key": "en|Which body part helps us hear?",
+    "text": "Which body part helps us hear?",
+    "lang": "en",
+    "id": "f185f920fbf878064de4"
+  },
+  {
+    "key": "en|Think about listening to music.",
+    "text": "Think about listening to music.",
+    "lang": "en",
+    "id": "774597fec2d41367a889"
+  },
+  {
+    "key": "en|Our ears help us hear sounds.",
+    "text": "Our ears help us hear sounds.",
+    "lang": "en",
+    "id": "2e817822e6175da2c2f9"
+  },
+  {
+    "key": "en|Which sense helps us notice a flower’s scent?",
+    "text": "Which sense helps us notice a flower’s scent?",
+    "lang": "en",
+    "id": "60625f5c9c08ff904905"
+  },
+  {
+    "key": "en|We use our nose for this sense.",
+    "text": "We use our nose for this sense.",
+    "lang": "en",
+    "id": "cb8e0b445ed0a41002b2"
+  },
+  {
+    "key": "en|Our sense of smell helps us notice scents.",
+    "text": "Our sense of smell helps us notice scents.",
+    "lang": "en",
+    "id": "92e68d90baefe2bff4f1"
+  },
+  {
+    "key": "en|cat",
+    "text": "cat",
+    "lang": "en",
+    "id": "048e56013661ab54f68f"
+  },
+  {
+    "key": "en|dog",
+    "text": "dog",
+    "lang": "en",
+    "id": "12ef62b1b045cf2511d9"
+  },
+  {
+    "key": "en|sun",
+    "text": "sun",
+    "lang": "en",
+    "id": "4089542341f3404b2b2d"
+  },
+  {
+    "key": "en|pig",
+    "text": "pig",
+    "lang": "en",
+    "id": "c27aafa92fffc00e812d"
+  },
+  {
+    "key": "en|hat",
+    "text": "hat",
+    "lang": "en",
+    "id": "ddd5243ef84debbb01ce"
+  },
+  {
+    "key": "en|bus",
+    "text": "bus",
+    "lang": "en",
+    "id": "9029ae20246ef5fca76e"
+  },
+  {
+    "key": "en|bed",
+    "text": "bed",
+    "lang": "en",
+    "id": "59e7ddd426034336a93d"
+  },
+  {
+    "key": "en|cup",
+    "text": "cup",
+    "lang": "en",
+    "id": "3fa8c32406ebbeed5723"
+  },
+  {
+    "key": "en|pen",
+    "text": "pen",
+    "lang": "en",
+    "id": "a23eb35c7e9addcb30c9"
+  },
+  {
+    "key": "en|rat",
+    "text": "rat",
+    "lang": "en",
+    "id": "dbce9fdf717380152d84"
+  },
+  {
+    "key": "en|hen",
+    "text": "hen",
+    "lang": "en",
+    "id": "b4093aef61a34ad72e65"
+  },
+  {
+    "key": "en|pot",
+    "text": "pot",
+    "lang": "en",
+    "id": "81b759395405853593bc"
+  },
+  {
+    "key": "en|map",
+    "text": "map",
+    "lang": "en",
+    "id": "765428feba048ccf02d5"
+  },
+  {
+    "key": "en|net",
+    "text": "net",
+    "lang": "en",
+    "id": "700841e98bd8216eec35"
+  },
+  {
+    "key": "en|van",
+    "text": "van",
+    "lang": "en",
+    "id": "290ed0200c9cd2b2153d"
+  },
+  {
+    "key": "en|log",
+    "text": "log",
+    "lang": "en",
+    "id": "886c85ceb46c098c9804"
+  },
+  {
+    "key": "en|Sun starts with the letter s. Sun. Sock. Both words start with s.",
+    "text": "Sun starts with the letter s. Sun. Sock. Both words start with s.",
+    "lang": "en",
+    "id": "cd6d7eec96e0fc78248b"
+  },
+  {
+    "key": "en|Point to each dot once. One. Two. Three. There are three dots altogether.",
+    "text": "Point to each dot once. One. Two. Three. There are three dots altogether.",
+    "lang": "en",
+    "id": "e1d4881decbd98b02fef"
+  },
+  {
+    "key": "ar|بَطَّة. تبدأ كلمة بَطَّة بحرف الباء. بَ.",
+    "text": "بَطَّة. تبدأ كلمة بَطَّة بحرف الباء. بَ.",
+    "lang": "ar",
+    "id": "a2e5783e65e7950f0283"
+  },
+  {
+    "key": "en|Plants need water and light to grow. What do you notice about a plant near you?",
+    "text": "Plants need water and light to grow. What do you notice about a plant near you?",
+    "lang": "en",
+    "id": "57e205e1cdb967aae878"
+  },
+  {
+    "key": "en|Hello, explorer! I’m Nova. Let’s make a little discovery together.",
+    "text": "Hello, explorer! I’m Nova. Let’s make a little discovery together.",
+    "lang": "en",
+    "id": "940b3262cd5dd771f2b4"
+  },
+  {
+    "key": "ar|مرحبًا يا صديقي. هيا نتعلم معًا.",
+    "text": "مرحبًا يا صديقي. هيا نتعلم معًا.",
+    "lang": "ar",
+    "id": "f53f46c24fc872f3caaf"
+  },
+  {
+    "key": "en|You found it! Wonderful noticing.",
+    "text": "You found it! Wonderful noticing.",
+    "lang": "en",
+    "id": "a56fda8f889bb134c490"
+  },
+  {
+    "key": "en|Nice work! You looked carefully.",
+    "text": "Nice work! You looked carefully.",
+    "lang": "en",
+    "id": "3bad954f970acda199a1"
+  },
+  {
+    "key": "en|That fits! Let’s keep exploring.",
+    "text": "That fits! Let’s keep exploring.",
+    "lang": "en",
+    "id": "371f351bad9155c160da"
+  },
+  {
+    "key": "en|You kept trying, and you worked it out!",
+    "text": "You kept trying, and you worked it out!",
+    "lang": "en",
+    "id": "ea05af0e23f03a3b710c"
+  },
+  {
+    "key": "en|A little help, a new discovery. Well done!",
+    "text": "A little help, a new discovery. Well done!",
+    "lang": "en",
+    "id": "61699f218485c144d8e5"
+  },
+  {
+    "key": "en|Good try. Let’s look at the clue together.",
+    "text": "Good try. Let’s look at the clue together.",
+    "lang": "en",
+    "id": "e304f21f402e630cc115"
+  },
+  {
+    "key": "en|We can try another idea. I’m here to help.",
+    "text": "We can try another idea. I’m here to help.",
+    "lang": "en",
+    "id": "810cc312f8ea73cdebd7"
+  },
+  {
+    "key": "en|Take your time. You can try again.",
+    "text": "Take your time. You can try again.",
+    "lang": "en",
+    "id": "15656c3992d3f0ff84b0"
+  },
+  {
+    "key": "en|Look at all you discovered! A lovely adventure together.",
+    "text": "Look at all you discovered! A lovely adventure together.",
+    "lang": "en",
+    "id": "58d7e108b499a0892d3c"
+  },
+  {
+    "key": "ar|أحسنت! لقد وجدت الإجابة.",
+    "text": "أحسنت! لقد وجدت الإجابة.",
+    "lang": "ar",
+    "id": "e14daa721f7fb78aab4a"
+  },
+  {
+    "key": "ar|رائع! فكرت جيدًا.",
+    "text": "رائع! فكرت جيدًا.",
+    "lang": "ar",
+    "id": "490d54b7b0a48d84c212"
+  },
+  {
+    "key": "ar|عمل جميل! لنكمل الاكتشاف.",
+    "text": "عمل جميل! لنكمل الاكتشاف.",
+    "lang": "ar",
+    "id": "bace8e6cb4c512ee73c7"
+  },
+  {
+    "key": "ar|أحسنت! واصلت المحاولة حتى وجدت الإجابة.",
+    "text": "أحسنت! واصلت المحاولة حتى وجدت الإجابة.",
+    "lang": "ar",
+    "id": "510123634cc60652af01"
+  },
+  {
+    "key": "ar|بعض المساعدة واكتشاف جديد. عمل جميل!",
+    "text": "بعض المساعدة واكتشاف جديد. عمل جميل!",
+    "lang": "ar",
+    "id": "6742b5828514057d67ec"
+  },
+  {
+    "key": "ar|محاولة جيدة. لننظر إلى التلميح معًا.",
+    "text": "محاولة جيدة. لننظر إلى التلميح معًا.",
+    "lang": "ar",
+    "id": "dffeb09bb79dcfbafd23"
+  },
+  {
+    "key": "ar|لا بأس. لنجرب فكرة أخرى.",
+    "text": "لا بأس. لنجرب فكرة أخرى.",
+    "lang": "ar",
+    "id": "3bfc116c3713b81b1a01"
+  },
+  {
+    "key": "ar|خذ وقتك. يمكنك المحاولة مرة أخرى.",
+    "text": "خذ وقتك. يمكنك المحاولة مرة أخرى.",
+    "lang": "ar",
+    "id": "bc6ca174406c7f0a9887"
+  },
+  {
+    "key": "ar|لقد تعلمت أشياء جميلة! كانت مغامرة رائعة معًا.",
+    "text": "لقد تعلمت أشياء جميلة! كانت مغامرة رائعة معًا.",
+    "lang": "ar",
+    "id": "6a614c1244a1df668687"
+  }
+]
