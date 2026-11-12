@@ -1,0 +1,17 @@
+const {test}=require('node:test');const assert=require('node:assert/strict');const vm=require('node:vm');const fs=require('node:fs');
+const code=fs.readFileSync(require.resolve('../app/narrator.js'),'utf8');
+const bundled='data:audio/wav;base64,AAAA',recorded='data:audio/wav;base64,BBBB';
+function setup({settings={},voices=[],clips={},ready=Promise.resolve(true)}={}){
+ const played=[],native=[],statuses=[],players=[];const speechSynthesis={getVoices:()=>voices,speak:u=>native.push(u),cancel(){},addEventListener(){},removeEventListener(){}};
+ class Audio {constructor(){players.push(this);}play(){played.push(this.src);return Promise.resolve();}pause(){}removeAttribute(){}load(){}}
+ const window={Audio,speechSynthesis,SpeechSynthesisUtterance:function(text){this.text=text;},GALAXY_VOICE_PACK:{version:1,clips:{'ar|مرحبا':bundled}},GalaxyVoiceLibrary:{ready,get:(lang,text)=>clips[lang+'|'+text]}};
+ vm.runInNewContext(code,{window,setTimeout,clearTimeout});const s={voice:true,voiceSource:'best',voiceVolume:.8,...settings};const narrator=window.GalaxyNarrator.create({settings:()=>s,onStatus:s=>statuses.push(s)});
+ return {narrator,window,played,native,statuses,players,s};
+}
+const flush=()=>new Promise(r=>setImmediate(r));
+test('human recording takes priority over enhanced and bundled speech',async()=>{const x=setup({clips:{'ar|مرحبا':recorded},voices:[{name:'Arabic Enhanced',lang:'ar-SA',localService:true}]});const job=x.narrator.speak('مرحبا','ar');await flush();assert.deepEqual(x.played,[recorded]);assert.equal(x.native.length,0);x.players[0].onended();assert.equal(await job,true);x.narrator.dispose();});
+test('best source prefers enhanced local Arabic; pack mode retains offline fallback',async()=>{const voice={name:'Arabic Enhanced',lang:'ar-SA',localService:true};const x=setup({voices:[voice]});x.narrator.speak('مرحبا','ar');await flush();assert.equal(x.native[0].voice,voice);x.narrator.stop();x.s.voiceSource='pack';x.narrator.speak('مرحبا','ar');await flush();assert.equal(x.played[0],bundled);x.narrator.dispose();});
+test('background stop while recordings load cannot restart speech',async()=>{let done;const x=setup({ready:new Promise(r=>done=r)});const job=x.narrator.speak('مرحبا','ar');x.narrator.stop();done(true);await flush();assert.equal(await job,false);assert.equal(x.played.length,0);x.narrator.dispose();});
+test('latest automatic phrase waits; manual replay cancels; mute disables speech',async()=>{const x=setup();const first=x.narrator.speak('مرحبا','ar');await flush();const stale=x.narrator.speak('other','ar');const next=x.narrator.speak('third','ar');assert.equal(await stale,false);const replay=x.narrator.speak('مرحبا','ar',{interrupt:true});await flush();assert.equal(await first,false);assert.equal(await next,false);assert.equal(x.played.length,2);x.narrator.stop();assert.equal(await replay,false);x.s.mute=true;assert.equal(await x.narrator.speak('مرحبا','ar'),false);x.narrator.dispose();});
+test('quiet runner cue with no voice ends without repeated warnings',async()=>{const x=setup();assert.equal(await x.narrator.speak('New coin!','en',{quiet:true}),false);assert.deepEqual(x.statuses,[]);x.narrator.dispose();});
+test('pack validation rejects network URLs and accepts embedded M4A',()=>{const x=setup();const v=x.window.GalaxyNarrator.validatePack;assert.equal(v({version:1,clips:{'ar|مرحبا':'https://example.com/audio.mp3'}}).ok,false);assert.equal(v({version:1,clips:{'ar|مرحبا':'data:audio/mp4;base64,AAAA'}}).ok,true);x.narrator.dispose();});

@@ -1,0 +1,1238 @@
+{
+  "language": "Modern Standard Arabic for Arabic lines; English for English lines",
+  "direction": "Warm, conversational, encouraging. Record whole phrases. Preserve Arabic vowel marks and intended letter names. Have a fluent Arabic educator review before importing.",
+  "phrases": [
+    {
+      "key": "en|sun. Which letter starts sun?",
+      "text": "sun. Which letter starts sun?"
+    },
+    {
+      "key": "en|The first sound is the same as in sock.",
+      "text": "The first sound is the same as in sock."
+    },
+    {
+      "key": "en|Sun and sock both start with s.",
+      "text": "Sun and sock both start with s."
+    },
+    {
+      "key": "en|moon. Which letter starts moon?",
+      "text": "moon. Which letter starts moon?"
+    },
+    {
+      "key": "en|The first sound is the same as in map.",
+      "text": "The first sound is the same as in map."
+    },
+    {
+      "key": "en|Moon and map both start with m.",
+      "text": "Moon and map both start with m."
+    },
+    {
+      "key": "en|cat. Which letter starts cat?",
+      "text": "cat. Which letter starts cat?"
+    },
+    {
+      "key": "en|The first sound is the same as in cup.",
+      "text": "The first sound is the same as in cup."
+    },
+    {
+      "key": "en|Cat and cup both start with c.",
+      "text": "Cat and cup both start with c."
+    },
+    {
+      "key": "en|dog. Which letter starts dog?",
+      "text": "dog. Which letter starts dog?"
+    },
+    {
+      "key": "en|The first sound is the same as in dig.",
+      "text": "The first sound is the same as in dig."
+    },
+    {
+      "key": "en|Dog and dig both start with d.",
+      "text": "Dog and dig both start with d."
+    },
+    {
+      "key": "en|fish. Which letter starts fish?",
+      "text": "fish. Which letter starts fish?"
+    },
+    {
+      "key": "en|The first sound is the same as in fan.",
+      "text": "The first sound is the same as in fan."
+    },
+    {
+      "key": "en|Fish and fan both start with f.",
+      "text": "Fish and fan both start with f."
+    },
+    {
+      "key": "en|pig. Which letter starts pig?",
+      "text": "pig. Which letter starts pig?"
+    },
+    {
+      "key": "en|The first sound is the same as in pan.",
+      "text": "The first sound is the same as in pan."
+    },
+    {
+      "key": "en|Pig and pan both start with p.",
+      "text": "Pig and pan both start with p."
+    },
+    {
+      "key": "en|Find the capital letter for a.",
+      "text": "Find the capital letter for a."
+    },
+    {
+      "key": "en|Look for capital A.",
+      "text": "Look for capital A."
+    },
+    {
+      "key": "en|A and a are two forms of the same letter.",
+      "text": "A and a are two forms of the same letter."
+    },
+    {
+      "key": "en|Find the capital letter for m.",
+      "text": "Find the capital letter for m."
+    },
+    {
+      "key": "en|Look for capital M.",
+      "text": "Look for capital M."
+    },
+    {
+      "key": "en|M and m are two forms of the same letter.",
+      "text": "M and m are two forms of the same letter."
+    },
+    {
+      "key": "en|Find the capital letter for s.",
+      "text": "Find the capital letter for s."
+    },
+    {
+      "key": "en|Look for capital S.",
+      "text": "Look for capital S."
+    },
+    {
+      "key": "en|S and s are two forms of the same letter.",
+      "text": "S and s are two forms of the same letter."
+    },
+    {
+      "key": "en|Find the capital letter for t.",
+      "text": "Find the capital letter for t."
+    },
+    {
+      "key": "en|Look for capital T.",
+      "text": "Look for capital T."
+    },
+    {
+      "key": "en|T and t are two forms of the same letter.",
+      "text": "T and t are two forms of the same letter."
+    },
+    {
+      "key": "en|Find the capital letter for p.",
+      "text": "Find the capital letter for p."
+    },
+    {
+      "key": "en|Look for capital P.",
+      "text": "Look for capital P."
+    },
+    {
+      "key": "en|P and p are two forms of the same letter.",
+      "text": "P and p are two forms of the same letter."
+    },
+    {
+      "key": "en|Find the capital letter for n.",
+      "text": "Find the capital letter for n."
+    },
+    {
+      "key": "en|Look for capital N.",
+      "text": "Look for capital N."
+    },
+    {
+      "key": "en|N and n are two forms of the same letter.",
+      "text": "N and n are two forms of the same letter."
+    },
+    {
+      "key": "en|Read the word on the screen. Choose its picture.",
+      "text": "Read the word on the screen. Choose its picture."
+    },
+    {
+      "key": "en|Point to each letter. Say its sound, then blend the sounds together.",
+      "text": "Point to each letter. Say its sound, then blend the sounds together."
+    },
+    {
+      "key": "en|The word is cat.",
+      "text": "The word is cat."
+    },
+    {
+      "key": "en|The word is sun.",
+      "text": "The word is sun."
+    },
+    {
+      "key": "en|The word is dog.",
+      "text": "The word is dog."
+    },
+    {
+      "key": "en|The word is pig.",
+      "text": "The word is pig."
+    },
+    {
+      "key": "en|The word is hat.",
+      "text": "The word is hat."
+    },
+    {
+      "key": "en|The word is bus.",
+      "text": "The word is bus."
+    },
+    {
+      "key": "en|Which word rhymes with cat? Choose from: sun, hat, or dog.",
+      "text": "Which word rhymes with cat? Choose from: sun, hat, or dog."
+    },
+    {
+      "key": "en|Listen for the same ending sound as cat.",
+      "text": "Listen for the same ending sound as cat."
+    },
+    {
+      "key": "en|Cat and hat have the same ending sound.",
+      "text": "Cat and hat have the same ending sound."
+    },
+    {
+      "key": "en|Which word rhymes with sun? Choose from: run, cat, or bed.",
+      "text": "Which word rhymes with sun? Choose from: run, cat, or bed."
+    },
+    {
+      "key": "en|Listen for the same ending sound as sun.",
+      "text": "Listen for the same ending sound as sun."
+    },
+    {
+      "key": "en|Sun and run have the same ending sound.",
+      "text": "Sun and run have the same ending sound."
+    },
+    {
+      "key": "en|Which word rhymes with dog? Choose from: hat, pig, or log.",
+      "text": "Which word rhymes with dog? Choose from: hat, pig, or log."
+    },
+    {
+      "key": "en|Listen for the same ending sound as dog.",
+      "text": "Listen for the same ending sound as dog."
+    },
+    {
+      "key": "en|Dog and log have the same ending sound.",
+      "text": "Dog and log have the same ending sound."
+    },
+    {
+      "key": "en|Which word rhymes with bed? Choose from: red, cup, or sit.",
+      "text": "Which word rhymes with bed? Choose from: red, cup, or sit."
+    },
+    {
+      "key": "en|Listen for the same ending sound as bed.",
+      "text": "Listen for the same ending sound as bed."
+    },
+    {
+      "key": "en|Bed and red have the same ending sound.",
+      "text": "Bed and red have the same ending sound."
+    },
+    {
+      "key": "en|Which word rhymes with pig? Choose from: dog, dig, or sun.",
+      "text": "Which word rhymes with pig? Choose from: dog, dig, or sun."
+    },
+    {
+      "key": "en|Listen for the same ending sound as pig.",
+      "text": "Listen for the same ending sound as pig."
+    },
+    {
+      "key": "en|Pig and dig have the same ending sound.",
+      "text": "Pig and dig have the same ending sound."
+    },
+    {
+      "key": "en|Which word rhymes with hop? Choose from: top, pen, or cat.",
+      "text": "Which word rhymes with hop? Choose from: top, pen, or cat."
+    },
+    {
+      "key": "en|Listen for the same ending sound as hop.",
+      "text": "Listen for the same ending sound as hop."
+    },
+    {
+      "key": "en|Hop and top have the same ending sound.",
+      "text": "Hop and top have the same ending sound."
+    },
+    {
+      "key": "en|Which letter completes cat?",
+      "text": "Which letter completes cat?"
+    },
+    {
+      "key": "en|Say cat slowly. Listen to its middle sound.",
+      "text": "Say cat slowly. Listen to its middle sound."
+    },
+    {
+      "key": "en|Cat is spelled c · a · t.",
+      "text": "Cat is spelled c · a · t."
+    },
+    {
+      "key": "en|Which letter completes sun?",
+      "text": "Which letter completes sun?"
+    },
+    {
+      "key": "en|Say sun slowly. Listen to its middle sound.",
+      "text": "Say sun slowly. Listen to its middle sound."
+    },
+    {
+      "key": "en|Sun is spelled s · u · n.",
+      "text": "Sun is spelled s · u · n."
+    },
+    {
+      "key": "en|Which letter completes pig?",
+      "text": "Which letter completes pig?"
+    },
+    {
+      "key": "en|Say pig slowly. Listen to its middle sound.",
+      "text": "Say pig slowly. Listen to its middle sound."
+    },
+    {
+      "key": "en|Pig is spelled p · i · g.",
+      "text": "Pig is spelled p · i · g."
+    },
+    {
+      "key": "en|Which letter completes bed?",
+      "text": "Which letter completes bed?"
+    },
+    {
+      "key": "en|Say bed slowly. Listen to its middle sound.",
+      "text": "Say bed slowly. Listen to its middle sound."
+    },
+    {
+      "key": "en|Bed is spelled b · e · d.",
+      "text": "Bed is spelled b · e · d."
+    },
+    {
+      "key": "en|Which letter completes dog?",
+      "text": "Which letter completes dog?"
+    },
+    {
+      "key": "en|Say dog slowly. Listen to its middle sound.",
+      "text": "Say dog slowly. Listen to its middle sound."
+    },
+    {
+      "key": "en|Dog is spelled d · o · g.",
+      "text": "Dog is spelled d · o · g."
+    },
+    {
+      "key": "en|Which letter completes cup?",
+      "text": "Which letter completes cup?"
+    },
+    {
+      "key": "en|Say cup slowly. Listen to its middle sound.",
+      "text": "Say cup slowly. Listen to its middle sound."
+    },
+    {
+      "key": "en|Cup is spelled c · u · p.",
+      "text": "Cup is spelled c · u · p."
+    },
+    {
+      "key": "en|How many dots can you count?",
+      "text": "How many dots can you count?"
+    },
+    {
+      "key": "en|Touch or point to each dot once as you count.",
+      "text": "Touch or point to each dot once as you count."
+    },
+    {
+      "key": "en|There is 1 dot. The last number tells how many.",
+      "text": "There is 1 dot. The last number tells how many."
+    },
+    {
+      "key": "en|There are 2 dots. The last number tells how many.",
+      "text": "There are 2 dots. The last number tells how many."
+    },
+    {
+      "key": "en|There are 3 dots. The last number tells how many.",
+      "text": "There are 3 dots. The last number tells how many."
+    },
+    {
+      "key": "en|There are 4 dots. The last number tells how many.",
+      "text": "There are 4 dots. The last number tells how many."
+    },
+    {
+      "key": "en|There are 5 dots. The last number tells how many.",
+      "text": "There are 5 dots. The last number tells how many."
+    },
+    {
+      "key": "en|There are 6 dots. The last number tells how many.",
+      "text": "There are 6 dots. The last number tells how many."
+    },
+    {
+      "key": "en|Count one row, then keep counting in the next row.",
+      "text": "Count one row, then keep counting in the next row."
+    },
+    {
+      "key": "en|There are 7 dots altogether.",
+      "text": "There are 7 dots altogether."
+    },
+    {
+      "key": "en|There are 8 dots altogether.",
+      "text": "There are 8 dots altogether."
+    },
+    {
+      "key": "en|There are 9 dots altogether.",
+      "text": "There are 9 dots altogether."
+    },
+    {
+      "key": "en|There are 10 dots altogether.",
+      "text": "There are 10 dots altogether."
+    },
+    {
+      "key": "en|Which number is greater?",
+      "text": "Which number is greater?"
+    },
+    {
+      "key": "en|The number you say later when counting is more.",
+      "text": "The number you say later when counting is more."
+    },
+    {
+      "key": "en|4 is more than 2.",
+      "text": "4 is more than 2."
+    },
+    {
+      "key": "en|5 is more than 3.",
+      "text": "5 is more than 3."
+    },
+    {
+      "key": "en|6 is more than 4.",
+      "text": "6 is more than 4."
+    },
+    {
+      "key": "en|7 is more than 5.",
+      "text": "7 is more than 5."
+    },
+    {
+      "key": "en|Which number is smaller?",
+      "text": "Which number is smaller?"
+    },
+    {
+      "key": "en|Think of two groups. Which group would have fewer things?",
+      "text": "Think of two groups. Which group would have fewer things?"
+    },
+    {
+      "key": "en|2 is smaller than 5.",
+      "text": "2 is smaller than 5."
+    },
+    {
+      "key": "en|1 is smaller than 3.",
+      "text": "1 is smaller than 3."
+    },
+    {
+      "key": "en|How many altogether?",
+      "text": "How many altogether?"
+    },
+    {
+      "key": "en|Hold up 1 finger. Add 1 more, then count them both.",
+      "text": "Hold up 1 finger. Add 1 more, then count them both."
+    },
+    {
+      "key": "en|1 and 1 together make 2.",
+      "text": "1 and 1 together make 2."
+    },
+    {
+      "key": "en|Hold up 2 fingers. Add 1 more, then count them all.",
+      "text": "Hold up 2 fingers. Add 1 more, then count them all."
+    },
+    {
+      "key": "en|2 and 1 together make 3.",
+      "text": "2 and 1 together make 3."
+    },
+    {
+      "key": "en|Hold up 2 fingers. Add 2 more, then count them all.",
+      "text": "Hold up 2 fingers. Add 2 more, then count them all."
+    },
+    {
+      "key": "en|2 and 2 together make 4.",
+      "text": "2 and 2 together make 4."
+    },
+    {
+      "key": "en|Hold up 3 fingers. Add 2 more, then count them all.",
+      "text": "Hold up 3 fingers. Add 2 more, then count them all."
+    },
+    {
+      "key": "en|3 and 2 together make 5.",
+      "text": "3 and 2 together make 5."
+    },
+    {
+      "key": "en|Hold up 4 fingers. Add 2 more, then count them all.",
+      "text": "Hold up 4 fingers. Add 2 more, then count them all."
+    },
+    {
+      "key": "en|4 and 2 together make 6.",
+      "text": "4 and 2 together make 6."
+    },
+    {
+      "key": "en|Hold up 5 fingers. Add 3 more, then count them all.",
+      "text": "Hold up 5 fingers. Add 3 more, then count them all."
+    },
+    {
+      "key": "en|5 and 3 together make 8.",
+      "text": "5 and 3 together make 8."
+    },
+    {
+      "key": "en|How many are left?",
+      "text": "How many are left?"
+    },
+    {
+      "key": "en|Start with 3 fingers or counters. Put 1 away. Count what is left.",
+      "text": "Start with 3 fingers or counters. Put 1 away. Count what is left."
+    },
+    {
+      "key": "en|3 take away 1 leaves 2.",
+      "text": "3 take away 1 leaves 2."
+    },
+    {
+      "key": "en|Start with 5 fingers or counters. Put 2 away. Count what is left.",
+      "text": "Start with 5 fingers or counters. Put 2 away. Count what is left."
+    },
+    {
+      "key": "en|5 take away 2 leaves 3.",
+      "text": "5 take away 2 leaves 3."
+    },
+    {
+      "key": "en|Start with 6 fingers or counters. Put 1 away. Count what is left.",
+      "text": "Start with 6 fingers or counters. Put 1 away. Count what is left."
+    },
+    {
+      "key": "en|6 take away 1 leaves 5.",
+      "text": "6 take away 1 leaves 5."
+    },
+    {
+      "key": "en|Start with 7 fingers or counters. Put 3 away. Count what is left.",
+      "text": "Start with 7 fingers or counters. Put 3 away. Count what is left."
+    },
+    {
+      "key": "en|7 take away 3 leaves 4.",
+      "text": "7 take away 3 leaves 4."
+    },
+    {
+      "key": "en|Which number comes next?",
+      "text": "Which number comes next?"
+    },
+    {
+      "key": "en|Count along from the first number.",
+      "text": "Count along from the first number."
+    },
+    {
+      "key": "en|4 comes next when we count.",
+      "text": "4 comes next when we count."
+    },
+    {
+      "key": "en|5 comes next when we count.",
+      "text": "5 comes next when we count."
+    },
+    {
+      "key": "en|8 comes next when we count.",
+      "text": "8 comes next when we count."
+    },
+    {
+      "key": "en|There are no stars. Which number means none?",
+      "text": "There are no stars. Which number means none?"
+    },
+    {
+      "key": "en|Zero is the number we use when there are none.",
+      "text": "Zero is the number we use when there are none."
+    },
+    {
+      "key": "en|Zero means there are none to count.",
+      "text": "Zero means there are none to count."
+    },
+    {
+      "key": "ar|أَيْنَ حَرْفُ ب؟",
+      "text": "أَيْنَ حَرْفُ ب؟"
+    },
+    {
+      "key": "ar|اُنْظُرْ إِلَى شَكْلِ الْحَرْفِ وَنُقَطِهِ.",
+      "text": "اُنْظُرْ إِلَى شَكْلِ الْحَرْفِ وَنُقَطِهِ."
+    },
+    {
+      "key": "ar|هَذَا هُوَ حَرْفُ ب.",
+      "text": "هَذَا هُوَ حَرْفُ ب."
+    },
+    {
+      "key": "ar|أَيْنَ حَرْفُ ت؟",
+      "text": "أَيْنَ حَرْفُ ت؟"
+    },
+    {
+      "key": "ar|هَذَا هُوَ حَرْفُ ت.",
+      "text": "هَذَا هُوَ حَرْفُ ت."
+    },
+    {
+      "key": "ar|أَيْنَ حَرْفُ م؟",
+      "text": "أَيْنَ حَرْفُ م؟"
+    },
+    {
+      "key": "ar|هَذَا هُوَ حَرْفُ م.",
+      "text": "هَذَا هُوَ حَرْفُ م."
+    },
+    {
+      "key": "ar|أَيْنَ حَرْفُ س؟",
+      "text": "أَيْنَ حَرْفُ س؟"
+    },
+    {
+      "key": "ar|هَذَا هُوَ حَرْفُ س.",
+      "text": "هَذَا هُوَ حَرْفُ س."
+    },
+    {
+      "key": "ar|أَيْنَ حَرْفُ ف؟",
+      "text": "أَيْنَ حَرْفُ ف؟"
+    },
+    {
+      "key": "ar|هَذَا هُوَ حَرْفُ ف.",
+      "text": "هَذَا هُوَ حَرْفُ ف."
+    },
+    {
+      "key": "ar|أَيْنَ حَرْفُ ن؟",
+      "text": "أَيْنَ حَرْفُ ن؟"
+    },
+    {
+      "key": "ar|هَذَا هُوَ حَرْفُ ن.",
+      "text": "هَذَا هُوَ حَرْفُ ن."
+    },
+    {
+      "key": "ar|بِأَيِّ حَرْفٍ تَبْدَأُ كَلِمَةُ بَطَّة؟",
+      "text": "بِأَيِّ حَرْفٍ تَبْدَأُ كَلِمَةُ بَطَّة؟"
+    },
+    {
+      "key": "ar|أَوَّلُ الْكَلِمَةِ بَـ.",
+      "text": "أَوَّلُ الْكَلِمَةِ بَـ."
+    },
+    {
+      "key": "ar|تَبْدَأُ كَلِمَةُ بَطَّة بِحَرْفِ ب.",
+      "text": "تَبْدَأُ كَلِمَةُ بَطَّة بِحَرْفِ ب."
+    },
+    {
+      "key": "ar|بِأَيِّ حَرْفٍ تَبْدَأُ كَلِمَةُ تُفَّاحَة؟",
+      "text": "بِأَيِّ حَرْفٍ تَبْدَأُ كَلِمَةُ تُفَّاحَة؟"
+    },
+    {
+      "key": "ar|أَوَّلُ الْكَلِمَةِ تُـ.",
+      "text": "أَوَّلُ الْكَلِمَةِ تُـ."
+    },
+    {
+      "key": "ar|تَبْدَأُ كَلِمَةُ تُفَّاحَة بِحَرْفِ ت.",
+      "text": "تَبْدَأُ كَلِمَةُ تُفَّاحَة بِحَرْفِ ت."
+    },
+    {
+      "key": "ar|بِأَيِّ حَرْفٍ تَبْدَأُ كَلِمَةُ مَوْز؟",
+      "text": "بِأَيِّ حَرْفٍ تَبْدَأُ كَلِمَةُ مَوْز؟"
+    },
+    {
+      "key": "ar|أَوَّلُ الْكَلِمَةِ مَـ.",
+      "text": "أَوَّلُ الْكَلِمَةِ مَـ."
+    },
+    {
+      "key": "ar|تَبْدَأُ كَلِمَةُ مَوْز بِحَرْفِ م.",
+      "text": "تَبْدَأُ كَلِمَةُ مَوْز بِحَرْفِ م."
+    },
+    {
+      "key": "ar|بِأَيِّ حَرْفٍ تَبْدَأُ كَلِمَةُ سَمَكَة؟",
+      "text": "بِأَيِّ حَرْفٍ تَبْدَأُ كَلِمَةُ سَمَكَة؟"
+    },
+    {
+      "key": "ar|أَوَّلُ الْكَلِمَةِ سَـ.",
+      "text": "أَوَّلُ الْكَلِمَةِ سَـ."
+    },
+    {
+      "key": "ar|تَبْدَأُ كَلِمَةُ سَمَكَة بِحَرْفِ س.",
+      "text": "تَبْدَأُ كَلِمَةُ سَمَكَة بِحَرْفِ س."
+    },
+    {
+      "key": "ar|بِأَيِّ حَرْفٍ تَبْدَأُ كَلِمَةُ فِيل؟",
+      "text": "بِأَيِّ حَرْفٍ تَبْدَأُ كَلِمَةُ فِيل؟"
+    },
+    {
+      "key": "ar|أَوَّلُ الْكَلِمَةِ فِـ.",
+      "text": "أَوَّلُ الْكَلِمَةِ فِـ."
+    },
+    {
+      "key": "ar|تَبْدَأُ كَلِمَةُ فِيل بِحَرْفِ ف.",
+      "text": "تَبْدَأُ كَلِمَةُ فِيل بِحَرْفِ ف."
+    },
+    {
+      "key": "ar|بِأَيِّ حَرْفٍ تَبْدَأُ كَلِمَةُ دُبّ؟",
+      "text": "بِأَيِّ حَرْفٍ تَبْدَأُ كَلِمَةُ دُبّ؟"
+    },
+    {
+      "key": "ar|أَوَّلُ الْكَلِمَةِ دُ.",
+      "text": "أَوَّلُ الْكَلِمَةِ دُ."
+    },
+    {
+      "key": "ar|تَبْدَأُ كَلِمَةُ دُبّ بِحَرْفِ د.",
+      "text": "تَبْدَأُ كَلِمَةُ دُبّ بِحَرْفِ د."
+    },
+    {
+      "key": "ar|أَيُّ حَرْفٍ عَلَيْهِ الْفَتْحَة؟",
+      "text": "أَيُّ حَرْفٍ عَلَيْهِ الْفَتْحَة؟"
+    },
+    {
+      "key": "ar|الْفَتْحَةُ خَطٌّ صَغِيرٌ فَوْقَ الْحَرْفِ.",
+      "text": "الْفَتْحَةُ خَطٌّ صَغِيرٌ فَوْقَ الْحَرْفِ."
+    },
+    {
+      "key": "ar|هَذَا حَرْفُ ب مَعَ الْفَتْحَة: بَ.",
+      "text": "هَذَا حَرْفُ ب مَعَ الْفَتْحَة: بَ."
+    },
+    {
+      "key": "ar|أَيُّ حَرْفٍ تَحْتَهُ الْكَسْرَة؟",
+      "text": "أَيُّ حَرْفٍ تَحْتَهُ الْكَسْرَة؟"
+    },
+    {
+      "key": "ar|الْكَسْرَةُ خَطٌّ صَغِيرٌ تَحْتَ الْحَرْفِ.",
+      "text": "الْكَسْرَةُ خَطٌّ صَغِيرٌ تَحْتَ الْحَرْفِ."
+    },
+    {
+      "key": "ar|هَذَا حَرْفُ ب مَعَ الْكَسْرَة: بِ.",
+      "text": "هَذَا حَرْفُ ب مَعَ الْكَسْرَة: بِ."
+    },
+    {
+      "key": "ar|أَيُّ حَرْفٍ عَلَيْهِ الضَّمَّة؟",
+      "text": "أَيُّ حَرْفٍ عَلَيْهِ الضَّمَّة؟"
+    },
+    {
+      "key": "ar|الضَّمَّةُ تُشْبِهُ وَاوًا صَغِيرَةً فَوْقَ الْحَرْفِ.",
+      "text": "الضَّمَّةُ تُشْبِهُ وَاوًا صَغِيرَةً فَوْقَ الْحَرْفِ."
+    },
+    {
+      "key": "ar|هَذَا حَرْفُ ب مَعَ الضَّمَّة: بُ.",
+      "text": "هَذَا حَرْفُ ب مَعَ الضَّمَّة: بُ."
+    },
+    {
+      "key": "ar|هَذَا حَرْفُ ت مَعَ الْفَتْحَة: تَ.",
+      "text": "هَذَا حَرْفُ ت مَعَ الْفَتْحَة: تَ."
+    },
+    {
+      "key": "ar|هَذَا حَرْفُ م مَعَ الْكَسْرَة: مِ.",
+      "text": "هَذَا حَرْفُ م مَعَ الْكَسْرَة: مِ."
+    },
+    {
+      "key": "ar|هَذَا حَرْفُ س مَعَ الضَّمَّة: سُ.",
+      "text": "هَذَا حَرْفُ س مَعَ الضَّمَّة: سُ."
+    },
+    {
+      "key": "ar|اِقْرَأِ الْكَلِمَةَ، ثُمَّ اِخْتَرْ صُورَتَهَا.",
+      "text": "اِقْرَأِ الْكَلِمَةَ، ثُمَّ اِخْتَرْ صُورَتَهَا."
+    },
+    {
+      "key": "ar|نَفْتَحُهُ لِنَدْخُلَ الْغُرْفَةَ.",
+      "text": "نَفْتَحُهُ لِنَدْخُلَ الْغُرْفَةَ."
+    },
+    {
+      "key": "ar|هَذِهِ صُورَةُ بَاب.",
+      "text": "هَذِهِ صُورَةُ بَاب."
+    },
+    {
+      "key": "ar|نَكْتُبُ بِهِ.",
+      "text": "نَكْتُبُ بِهِ."
+    },
+    {
+      "key": "ar|هَذِهِ صُورَةُ قَلَم.",
+      "text": "هَذِهِ صُورَةُ قَلَم."
+    },
+    {
+      "key": "ar|نَقْرَأُ فِيهِ.",
+      "text": "نَقْرَأُ فِيهِ."
+    },
+    {
+      "key": "ar|هَذِهِ صُورَةُ كِتَاب.",
+      "text": "هَذِهِ صُورَةُ كِتَاب."
+    },
+    {
+      "key": "ar|نَرَاهُ فِي السَّمَاءِ لَيْلًا.",
+      "text": "نَرَاهُ فِي السَّمَاءِ لَيْلًا."
+    },
+    {
+      "key": "ar|هَذِهِ صُورَةُ قَمَر.",
+      "text": "هَذِهِ صُورَةُ قَمَر."
+    },
+    {
+      "key": "ar|تُعْطِينَا الضَّوْءَ وَالدِّفْءَ.",
+      "text": "تُعْطِينَا الضَّوْءَ وَالدِّفْءَ."
+    },
+    {
+      "key": "ar|هَذِهِ صُورَةُ شَمْس.",
+      "text": "هَذِهِ صُورَةُ شَمْس."
+    },
+    {
+      "key": "ar|لَهَا بَتَلَاتٌ جَمِيلَةٌ.",
+      "text": "لَهَا بَتَلَاتٌ جَمِيلَةٌ."
+    },
+    {
+      "key": "ar|هَذِهِ صُورَةُ وَرْدَة.",
+      "text": "هَذِهِ صُورَةُ وَرْدَة."
+    },
+    {
+      "key": "en|Which shape has three sides?",
+      "text": "Which shape has three sides?"
+    },
+    {
+      "key": "en|Count the straight sides.",
+      "text": "Count the straight sides."
+    },
+    {
+      "key": "en|A triangle has three straight sides.",
+      "text": "A triangle has three straight sides."
+    },
+    {
+      "key": "en|Which shape is round?",
+      "text": "Which shape is round?"
+    },
+    {
+      "key": "en|A round shape has no corners.",
+      "text": "A round shape has no corners."
+    },
+    {
+      "key": "en|A circle is round and has no corners.",
+      "text": "A circle is round and has no corners."
+    },
+    {
+      "key": "en|Which shape has four equal sides?",
+      "text": "Which shape has four equal sides?"
+    },
+    {
+      "key": "en|Look for four straight sides of the same length.",
+      "text": "Look for four straight sides of the same length."
+    },
+    {
+      "key": "en|A square has four equal sides and four corners.",
+      "text": "A square has four equal sides and four corners."
+    },
+    {
+      "key": "en|Which one is a living thing that can grow?",
+      "text": "Which one is a living thing that can grow?"
+    },
+    {
+      "key": "en|Living things grow and change.",
+      "text": "Living things grow and change."
+    },
+    {
+      "key": "en|A plant is a living thing. It grows.",
+      "text": "A plant is a living thing. It grows."
+    },
+    {
+      "key": "en|Which animal has feathers?",
+      "text": "Which animal has feathers?"
+    },
+    {
+      "key": "en|Feathers cover this animal’s body.",
+      "text": "Feathers cover this animal’s body."
+    },
+    {
+      "key": "en|Birds have feathers.",
+      "text": "Birds have feathers."
+    },
+    {
+      "key": "en|Which animal has fins?",
+      "text": "Which animal has fins?"
+    },
+    {
+      "key": "en|This animal moves through water.",
+      "text": "This animal moves through water."
+    },
+    {
+      "key": "en|Fish use their fins to move and balance in water.",
+      "text": "Fish use their fins to move and balance in water."
+    },
+    {
+      "key": "en|Which one helps keep you dry in rain?",
+      "text": "Which one helps keep you dry in rain?"
+    },
+    {
+      "key": "en|Choose something that makes a cover above you.",
+      "text": "Choose something that makes a cover above you."
+    },
+    {
+      "key": "en|An umbrella helps keep rain off you.",
+      "text": "An umbrella helps keep rain off you."
+    },
+    {
+      "key": "en|What should we do before eating?",
+      "text": "What should we do before eating?"
+    },
+    {
+      "key": "en|Think about keeping germs away from food.",
+      "text": "Think about keeping germs away from food."
+    },
+    {
+      "key": "en|Washing hands with soap and water helps remove germs.",
+      "text": "Washing hands with soap and water helps remove germs."
+    },
+    {
+      "key": "en|What do roots take in from the ground?",
+      "text": "What do roots take in from the ground?"
+    },
+    {
+      "key": "en|Roots spread through the soil.",
+      "text": "Roots spread through the soil."
+    },
+    {
+      "key": "en|Roots take in water from the ground.",
+      "text": "Roots take in water from the ground."
+    },
+    {
+      "key": "en|What helps most plants make their food?",
+      "text": "What helps most plants make their food?"
+    },
+    {
+      "key": "en|Look up at the daytime sky.",
+      "text": "Look up at the daytime sky."
+    },
+    {
+      "key": "en|Most plants use light to help make their food.",
+      "text": "Most plants use light to help make their food."
+    },
+    {
+      "key": "en|Which material lets us see through it?",
+      "text": "Which material lets us see through it?"
+    },
+    {
+      "key": "en|Think of looking through a window.",
+      "text": "Think of looking through a window."
+    },
+    {
+      "key": "en|We can see through clear glass.",
+      "text": "We can see through clear glass."
+    },
+    {
+      "key": "en|Which object is usually soft?",
+      "text": "Which object is usually soft?"
+    },
+    {
+      "key": "en|Think about what feels comfortable to cuddle.",
+      "text": "Think about what feels comfortable to cuddle."
+    },
+    {
+      "key": "en|A teddy bear is usually soft.",
+      "text": "A teddy bear is usually soft."
+    },
+    {
+      "key": "en|Which animal is an insect?",
+      "text": "Which animal is an insect?"
+    },
+    {
+      "key": "en|Insects have six legs.",
+      "text": "Insects have six legs."
+    },
+    {
+      "key": "en|A butterfly is an insect. It has six legs.",
+      "text": "A butterfly is an insect. It has six legs."
+    },
+    {
+      "key": "en|What is our home planet?",
+      "text": "What is our home planet?"
+    },
+    {
+      "key": "en|It is the planet where we all live.",
+      "text": "It is the planet where we all live."
+    },
+    {
+      "key": "en|Earth is our home planet.",
+      "text": "Earth is our home planet."
+    },
+    {
+      "key": "en|Which object makes its own light?",
+      "text": "Which object makes its own light?"
+    },
+    {
+      "key": "en|The Sun is a star.",
+      "text": "The Sun is a star."
+    },
+    {
+      "key": "en|The Sun makes its own light. The Moon reflects light from the Sun.",
+      "text": "The Sun makes its own light. The Moon reflects light from the Sun."
+    },
+    {
+      "key": "en|What comes next in this pattern?",
+      "text": "What comes next in this pattern?"
+    },
+    {
+      "key": "en|The two colors take turns: blue, yellow.",
+      "text": "The two colors take turns: blue, yellow."
+    },
+    {
+      "key": "en|Blue comes next. The pattern repeats blue, yellow.",
+      "text": "Blue comes next. The pattern repeats blue, yellow."
+    },
+    {
+      "key": "en|The repeating group is two triangles, then a circle.",
+      "text": "The repeating group is two triangles, then a circle."
+    },
+    {
+      "key": "en|A blue circle completes the repeating group.",
+      "text": "A blue circle completes the repeating group."
+    },
+    {
+      "key": "en|What happens to an ice cube in a warm room?",
+      "text": "What happens to an ice cube in a warm room?"
+    },
+    {
+      "key": "en|Think about an ice lolly on a warm day.",
+      "text": "Think about an ice lolly on a warm day."
+    },
+    {
+      "key": "en|Ice warms up and melts into liquid water.",
+      "text": "Ice warms up and melts into liquid water."
+    },
+    {
+      "key": "en|What helps your body rest and grow?",
+      "text": "What helps your body rest and grow?"
+    },
+    {
+      "key": "en|Our bodies need time to rest.",
+      "text": "Our bodies need time to rest."
+    },
+    {
+      "key": "en|Enough sleep helps our bodies rest, learn and grow.",
+      "text": "Enough sleep helps our bodies rest, learn and grow."
+    },
+    {
+      "key": "en|What does a butterfly caterpillar become?",
+      "text": "What does a butterfly caterpillar become?"
+    },
+    {
+      "key": "en|It changes inside a chrysalis.",
+      "text": "It changes inside a chrysalis."
+    },
+    {
+      "key": "en|A butterfly caterpillar changes into a butterfly. Some other caterpillars become moths.",
+      "text": "A butterfly caterpillar changes into a butterfly. Some other caterpillars become moths."
+    },
+    {
+      "key": "en|What can grow from a seed?",
+      "text": "What can grow from a seed?"
+    },
+    {
+      "key": "en|A seed can sprout when conditions are right.",
+      "text": "A seed can sprout when conditions are right."
+    },
+    {
+      "key": "en|A seed can grow into a plant with suitable water, air and warmth.",
+      "text": "A seed can grow into a plant with suitable water, air and warmth."
+    },
+    {
+      "key": "en|Which action saves water?",
+      "text": "Which action saves water?"
+    },
+    {
+      "key": "en|Use only the water you need.",
+      "text": "Use only the water you need."
+    },
+    {
+      "key": "en|Turning off the tap when you are not using it saves water.",
+      "text": "Turning off the tap when you are not using it saves water."
+    },
+    {
+      "key": "en|Which body part helps us hear?",
+      "text": "Which body part helps us hear?"
+    },
+    {
+      "key": "en|Think about listening to music.",
+      "text": "Think about listening to music."
+    },
+    {
+      "key": "en|Our ears help us hear sounds.",
+      "text": "Our ears help us hear sounds."
+    },
+    {
+      "key": "en|Which sense helps us notice a flower’s scent?",
+      "text": "Which sense helps us notice a flower’s scent?"
+    },
+    {
+      "key": "en|We use our nose for this sense.",
+      "text": "We use our nose for this sense."
+    },
+    {
+      "key": "en|Our sense of smell helps us notice scents.",
+      "text": "Our sense of smell helps us notice scents."
+    },
+    {
+      "key": "en|cat",
+      "text": "cat"
+    },
+    {
+      "key": "en|dog",
+      "text": "dog"
+    },
+    {
+      "key": "en|sun",
+      "text": "sun"
+    },
+    {
+      "key": "en|pig",
+      "text": "pig"
+    },
+    {
+      "key": "en|hat",
+      "text": "hat"
+    },
+    {
+      "key": "en|bus",
+      "text": "bus"
+    },
+    {
+      "key": "en|bed",
+      "text": "bed"
+    },
+    {
+      "key": "en|cup",
+      "text": "cup"
+    },
+    {
+      "key": "en|pen",
+      "text": "pen"
+    },
+    {
+      "key": "en|rat",
+      "text": "rat"
+    },
+    {
+      "key": "en|hen",
+      "text": "hen"
+    },
+    {
+      "key": "en|pot",
+      "text": "pot"
+    },
+    {
+      "key": "en|map",
+      "text": "map"
+    },
+    {
+      "key": "en|net",
+      "text": "net"
+    },
+    {
+      "key": "en|van",
+      "text": "van"
+    },
+    {
+      "key": "en|log",
+      "text": "log"
+    },
+    {
+      "key": "en|Sun starts with the letter s. Sun. Sock. Both words start with s.",
+      "text": "Sun starts with the letter s. Sun. Sock. Both words start with s."
+    },
+    {
+      "key": "en|Point to each dot once. One. Two. Three. There are three dots altogether.",
+      "text": "Point to each dot once. One. Two. Three. There are three dots altogether."
+    },
+    {
+      "key": "ar|بَطَّة. تبدأ كلمة بَطَّة بحرف الباء. بَ.",
+      "text": "بَطَّة. تبدأ كلمة بَطَّة بحرف الباء. بَ."
+    },
+    {
+      "key": "en|Plants need water and light to grow. What do you notice about a plant near you?",
+      "text": "Plants need water and light to grow. What do you notice about a plant near you?"
+    },
+    {
+      "key": "en|Hello, explorer! I’m Nova. Let’s make a little discovery together.",
+      "text": "Hello, explorer! I’m Nova. Let’s make a little discovery together."
+    },
+    {
+      "key": "ar|مرحبًا يا صديقي. هيا نتعلم معًا.",
+      "text": "مرحبًا يا صديقي. هيا نتعلم معًا."
+    },
+    {
+      "key": "en|Up we go!",
+      "text": "Up we go!"
+    },
+    {
+      "key": "en|A little leap!",
+      "text": "A little leap!"
+    },
+    {
+      "key": "ar|هَيَّا نَقْفِزْ!",
+      "text": "هَيَّا نَقْفِزْ!"
+    },
+    {
+      "key": "ar|قَفْزَةٌ جَمِيلَةٌ!",
+      "text": "قَفْزَةٌ جَمِيلَةٌ!"
+    },
+    {
+      "key": "en|Down low!",
+      "text": "Down low!"
+    },
+    {
+      "key": "en|Nice and low!",
+      "text": "Nice and low!"
+    },
+    {
+      "key": "ar|لِنَنْحَنِ!",
+      "text": "لِنَنْحَنِ!"
+    },
+    {
+      "key": "ar|أَحْسَنْتَ!",
+      "text": "أَحْسَنْتَ!"
+    },
+    {
+      "key": "en|A little light!",
+      "text": "A little light!"
+    },
+    {
+      "key": "en|You found a coin!",
+      "text": "You found a coin!"
+    },
+    {
+      "key": "en|Lovely collecting!",
+      "text": "Lovely collecting!"
+    },
+    {
+      "key": "ar|عُمْلَةٌ جَدِيدَةٌ!",
+      "text": "عُمْلَةٌ جَدِيدَةٌ!"
+    },
+    {
+      "key": "ar|جَمْعٌ رَائِعٌ!",
+      "text": "جَمْعٌ رَائِعٌ!"
+    },
+    {
+      "key": "en|A bump! Try jumping over the next rock.",
+      "text": "A bump! Try jumping over the next rock."
+    },
+    {
+      "key": "ar|لَا بَأْسَ! لِنَقْفِزْ فَوْقَ الصَّخْرَةِ التَّالِيَةِ.",
+      "text": "لَا بَأْسَ! لِنَقْفِزْ فَوْقَ الصَّخْرَةِ التَّالِيَةِ."
+    },
+    {
+      "key": "en|A bump! Duck under the next barrier.",
+      "text": "A bump! Duck under the next barrier."
+    },
+    {
+      "key": "ar|لَا بَأْسَ! لِنَنْحَنِ تَحْتَ الْحَاجِزِ التَّالِي.",
+      "text": "لَا بَأْسَ! لِنَنْحَنِ تَحْتَ الْحَاجِزِ التَّالِي."
+    },
+    {
+      "key": "en|You made it!",
+      "text": "You made it!"
+    },
+    {
+      "key": "en|Nicely done!",
+      "text": "Nicely done!"
+    },
+    {
+      "key": "ar|مُرُورٌ رَائِعٌ!",
+      "text": "مُرُورٌ رَائِعٌ!"
+    },
+    {
+      "key": "en|Choose Jump for the rock.",
+      "text": "Choose Jump for the rock."
+    },
+    {
+      "key": "ar|اِخْتَرِ الْقَفْزَ فَوْقَ الصَّخْرَةِ.",
+      "text": "اِخْتَرِ الْقَفْزَ فَوْقَ الصَّخْرَةِ."
+    },
+    {
+      "key": "en|Choose Duck for the barrier.",
+      "text": "Choose Duck for the barrier."
+    },
+    {
+      "key": "ar|اِخْتَرِ الانْحِنَاءَ تَحْتَ الْحَاجِزِ.",
+      "text": "اِخْتَرِ الانْحِنَاءَ تَحْتَ الْحَاجِزِ."
+    },
+    {
+      "key": "en|Choose Collect for the coin.",
+      "text": "Choose Collect for the coin."
+    },
+    {
+      "key": "ar|اِخْتَرْ جَمْعَ الْعُمْلَةِ.",
+      "text": "اِخْتَرْ جَمْعَ الْعُمْلَةِ."
+    }
+  ]
+}
