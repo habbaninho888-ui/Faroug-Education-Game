@@ -13,8 +13,8 @@ with ZipFile(downloads / 'Farougs-Learning-Galaxy-Adventure.zip', 'w', ZIP_DEFLA
     z.write(root / 'app/VOICE-LICENSES.md', 'VOICE-LICENSES.md')
     for p in (root / 'app/licenses').iterdir():
         z.write(p, 'licenses/' + p.name)
-    for p in (root / 'docs').iterdir():
-        z.write(p, p.name)
+    for name in ['MOBILE.md', 'MOBILE-EDITION.md', 'REVIEW.md']:
+        z.write(root / 'docs' / name, name)
     z.writestr('START-HERE.txt', '''Faroug's Learning Galaxy - Adventure Edition
 
 1. Extract this ZIP. Open Farougs-Learning-Galaxy.html in Chrome or Edge.

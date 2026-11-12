@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#6660ce">
+  <meta name="description" content="A little curiosity. A whole galaxy of possibility. Play, read, count and discover with Faroug and Nova.">
+  <title>Faroug’s Learning Galaxy · Adventure Edition 3</title>
+  <link rel="icon" href="assets/robot.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to activities</a>
+<div class="app-shell">
+  <aside class="sidebar" aria-label="Main navigation">
+    <a class="brand" href="#home" aria-label="Faroug’s Galaxy home"><span class="brand-mark" id="brand-mark"></span><span>faroug’s<span class="brand-sub">LEARNING GALAXY</span></span></a>
+    <div class="side-label">LET’S EXPLORE</div>
+    <nav id="navigation"></nav>
+    <div class="sidebar-bottom">
+      <div class="nova-note"><img src="assets/robot.svg" alt=""><b>A little every day.<br>A galaxy of possibilities.</b><span>Small steps are big discoveries.</span></div>
+      <button class="nav-button" data-view="settings"><span data-icon="settings"></span>Settings & sound</button>
+      <button class="nav-button" data-view="parents"><span data-icon="shield"></span>Grown-up corner<span class="tiny-lock" data-icon="lock"></span></button>
+      <div class="local-note"><i></i> Your progress stays on this device</div>
+    </div>
+  </aside>
+  <div class="workspace">
+    <header class="topbar">
+      <div class="breadcrumb"><span class="crumb-home" data-icon="compass"></span>YOUR LITTLE UNIVERSE <span>/</span> <b id="page-name">Mission control</b></div>
+      <div class="top-actions"><button class="sound-toggle icon-button" id="quick-sound" aria-label="Mute all audio" title="Mute all audio"></button><span class="top-divider"></span><span class="star-balance"><span data-icon="star"></span><b id="star-total">0</b><small>stardust</small></span><button class="profile-button" data-view="settings" aria-label="Explorer profile and settings"><span id="profile-initial">F</span></button></div>
+    </header>
+    <main id="main" tabindex="-1"></main>
+    <footer class="app-footer"><span>A little curiosity. A whole galaxy of possibility.</span><span>Adventure Edition 3 <i>✧</i> Ages 4–6</span></footer>
+  </div>
+</div>
+<dialog id="dialog" aria-labelledby="dialog-title"></dialog>
+<div id="toast" role="status" aria-live="polite"></div>
+<div id="confetti" aria-hidden="true"></div>
+<script src="content.js"></script>
+<script src="orbit.js"></script>
+<script src="vendor/three.min.js"></script>
+<script src="runner.js"></script>
+<script src="quran-data.js"></script>
+<script src="quran.js"></script>
+<script src="feedback.js"></script>
+<script src="voice-pack.js"></script>
+<script src="narration.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

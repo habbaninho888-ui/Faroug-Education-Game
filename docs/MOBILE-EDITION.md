@@ -31,10 +31,10 @@ npm run mobile:sync
 
 Tests use `/usr/bin/chromium`; set `CHROMIUM_PATH` for another installation. Source is in `app/`. The build creates `dist/`, a versioned offline cache, narration script, and standalone HTML.
 
-Native projects: [Android](android/) and [iOS](ios/). Read the [mobile build instructions](docs/MOBILE.md) and [review/test report](docs/REVIEW.md). The original Voice Fix ZIP remains as a historical release.
+Native projects: [Android](../android/) and [iOS](../ios/). Read the [mobile build instructions](MOBILE.md) and [review/test report](REVIEW.md). The original Voice Fix ZIP remains as a historical release.
 
 ## Data and rights
 
 Nickname, progress, preferences, and imported recordings stay on this device/browser. No analytics, ads, or accounts. Selecting an online device voice or recitation may contact external services. Parent exports contain the nickname and practice history. Learning observations do not establish mastery or diagnose learning needs.
 
-Bundled Arabic audio is **CC BY-NC-SA 4.0**, for personal, noncommercial use. Commercial/store distribution needs cleared replacement audio or permission. Importing recordings does not remove bundled assets from the build. See [voice attribution](app/VOICE-LICENSES.md) and included licenses. Capacitor is MIT licensed.
+Bundled Arabic audio is **CC BY-NC-SA 4.0**, for personal, noncommercial use. Commercial/store distribution needs cleared replacement audio or permission. Importing recordings does not remove bundled assets from the build. See [voice attribution](../app/VOICE-LICENSES.md) and included licenses. Capacitor is MIT licensed.
